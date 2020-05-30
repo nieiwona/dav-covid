@@ -1,13 +1,25 @@
 import plotly.graph_objects as go
-import pandas as pd
 
-data = pd.read_csv('./../data/covid_19_clean_complete.csv')
-data_aus = data.loc[data['Country/Region'] == 'Australia']
-data_aus.to_csv('./../data/aus_sick.csv', index=False)
+values = []
+total_cases = 7183
+total_deaths = 103
+total_recovered = 6606
 
+values = []
+values.append(total_recovered)
+values.append(total_deaths)
+values.append(total_cases - total_recovered - total_deaths)
 labels = ['Recovered','Dead','Active cases']
-values = [7183, 103, 6.606]
+colors = ['rgb(169,220,103', 'rgb(0,0,0)', '#3c19f0']
 
 fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
-# fig.show()
+
+fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=14,
+                  marker=dict(colors=colors))
+
+fig.update_layout(
+    title_text="Current status of confirmed cases of covid-19"
+)
+
+fig.show()
 
