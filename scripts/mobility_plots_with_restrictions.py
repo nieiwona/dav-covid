@@ -29,7 +29,7 @@ restrictions_mobility_text = ['Outdoor gatherings limited to 500 persons',
 
 fig = make_subplots(rows=2, cols=3,
                     subplot_titles=("Retail and recreation", "Grocery and pharmacy", "Parks",
-                                    "Transit stations", "Workplace", "Residental"),
+                                    "Transit stations", "Workplace", "Residential"),
                     shared_yaxes=True)
 
 # Top left
@@ -39,19 +39,19 @@ fig.add_trace(
                name="Retail and recreation", fill='tonexty', mode='none'), row=1, col=1, secondary_y=False
 )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
-               marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
-               name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
-               row=1, col=1, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
+#                marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
+#                name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
+#                row=1, col=1, secondary_y=False
+#                )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
-               mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
-               row=1, col=1, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
+#                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
+#                name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
+#                row=1, col=1, secondary_y=False
+#                )
 
 
 # Top mid
@@ -61,19 +61,19 @@ fig.add_trace(
                name="Grocery and pharmacy", fill='tonexty', mode='none'), row=1, col=2
 )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
-               marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
-               name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
-               row=1, col=2, secondary_y=False
-               )
-
-fig.add_trace(
-    go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
-               mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
-               row=1, col=2, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
+#                marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
+#                name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
+#                row=1, col=2, secondary_y=False
+#                )
+#
+# fig.add_trace(
+#     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
+#                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
+#                name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
+#                row=1, col=2, secondary_y=False
+#                )
 
 
 # Top right
@@ -83,19 +83,19 @@ fig.add_trace(
                name="Parks", fill='tonexty', mode='none'), row=1, col=3
 )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
-               marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
-               name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
-               row=1, col=3, secondary_y=False
-               )
-
-fig.add_trace(
-    go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
-               mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
-               row=1, col=3, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
+#                marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
+#                name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
+#                row=1, col=3, secondary_y=False
+#                )
+#
+# fig.add_trace(
+#     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
+#                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
+#                name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
+#                row=1, col=3, secondary_y=False
+#                )
 
 # Bottom left
 fig.add_trace(
@@ -103,19 +103,19 @@ fig.add_trace(
                name="Transit stations", fill='tonexty', mode='none'), row=2, col=1
 )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
-               marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
-               name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
-               row=2, col=1, secondary_y=False
-               )
-
-fig.add_trace(
-    go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
-               mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
-               row=2, col=1, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
+#                marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
+#                name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
+#                row=2, col=1, secondary_y=False
+#                )
+#
+# fig.add_trace(
+#     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
+#                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
+#                name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
+#                row=2, col=1, secondary_y=False
+#                )
 
 
 # Bottom mid
@@ -125,45 +125,45 @@ fig.add_trace(
                name="Workplace", fill='tonexty', mode='none'), row=2, col=2
 )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
-               marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
-               name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
-               row=2, col=2, secondary_y=False
-               )
-
-fig.add_trace(
-    go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
-               mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
-               row=2, col=2, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
+#                marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
+#                name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
+#                row=2, col=2, secondary_y=False
+#                )
+#
+# fig.add_trace(
+#     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
+#                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
+#                name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
+#                row=2, col=2, secondary_y=False
+#                )
 
 
 # Bottom right
 fig.add_trace(
     go.Scatter(x=list(mobility_total.date), y=list(mobility_total.residential_percent_change_from_baseline),
-               name="Residental", fill='tonexty', mode='none'), row=2, col=3
+               name="Residential", fill='tonexty', mode='none'), row=2, col=3
 )
 
-fig.add_trace(
-    go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
-               marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
-               name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
-               row=2, col=3, secondary_y=False
-               )
-
-fig.add_trace(
-    go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
-               mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Gathering restrictions ", text=restrictions_mobility_text, textposition='top center'),
-               row=2, col=3, secondary_y=False
-               )
+# fig.add_trace(
+#     go.Scatter(x=restrictions_borders_dates, y=restrictions_borders_positions, mode='markers',
+#                marker=dict(color=['#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000', '#ff0000']),
+#                name="Border restrictions ", text=restrictions_borders_text, textposition='top center'),
+#                row=2, col=3, secondary_y=False
+#                )
+#
+# fig.add_trace(
+#     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
+#                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
+#                name="Gathering restrictions ", text=restrictions_mobility_text, textposition='top center'),
+#                row=2, col=3, secondary_y=False
+#                )
 
 # fig.update_layout(showlegend=False)
 
 fig.update_layout(
-    title_text="Google's community mobility reports for Australia with governmental restrictions <br>Change form baseline during covid-19 pandemic<br>"
+    title="Google community mobility reports for Australia during covid-19 pandemic <br>"
 )
 
 # Set template
@@ -171,11 +171,25 @@ fig.update_layout(
     template="plotly_white"
 )
 
+fig.update_layout(
+    font=dict(size=14)
+)
+
+fig.update_layout(
+    autosize=True,
+    width=1200,
+    height=700
+)
+
+
 fig.show()
 
-directory = './../images/'
-f = "mobility_plots.html"
-file_path = os.path.join(directory, f)
-fig.write_html(file_path)
-os.chdir(directory)
-print(os.path.abspath(f))
+# fig.write_image("./../images/mobility_plots_with_restrictions.png")
+
+
+# directory = './../images/'
+# f = "mobility_plots.html"
+# file_path = os.path.join(directory, f)
+# fig.write_html(file_path)
+# os.chdir(directory)
+# print(os.path.abspath(f))

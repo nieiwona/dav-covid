@@ -15,18 +15,30 @@ colors = ['rgb(169,220,103', 'rgb(0,0,0)', '#3c19f0']
 
 fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
 
-fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=14,
+fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=16,
                   marker=dict(colors=colors))
 
 fig.update_layout(
-    title_text="Current status of confirmed cases of covid-19 <br>Status by 2020-05-30"
+    title_text="Current state of confirmed cases of covid-19 <br>Status by 2020-05-30"
+)
+
+fig.update_layout(
+    font=dict(size=18)
+)
+
+fig.update_layout(
+    autosize=False,
+    width=600,
+    height=600
 )
 
 fig.show()
 
-directory = './../images/'
-f = "recovered_dead_active_pieplot.html"
-file_path = os.path.join(directory, f)
-fig.write_html(file_path)
-os.chdir(directory)
-print(os.path.abspath(f))
+# fig.write_image("./../images/recovered_dead_open_pieplot.png")
+
+# directory = './../images/'
+# f = "recovered_dead_active_pieplot.html"
+# file_path = os.path.join(directory, f)
+# fig.write_html(file_path)
+# os.chdir(directory)
+# print(os.path.abspath(f))
