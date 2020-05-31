@@ -1,0 +1,874 @@
+,country_region_code,country_region,sub_region_1,sub_region_2,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+5124,AU,Australia,,,2020-02-15,4.0,3.0,-2.0,3.0,3.0,0.0
+5125,AU,Australia,,,2020-02-16,3.0,5.0,9.0,3.0,-1.0,0.0
+5126,AU,Australia,,,2020-02-17,-1.0,0.0,-6.0,7.0,17.0,-2.0
+5127,AU,Australia,,,2020-02-18,-3.0,-2.0,-13.0,7.0,14.0,-1.0
+5128,AU,Australia,,,2020-02-19,-1.0,-1.0,-6.0,8.0,13.0,-1.0
+5129,AU,Australia,,,2020-02-20,0.0,1.0,5.0,9.0,13.0,-2.0
+5130,AU,Australia,,,2020-02-21,3.0,4.0,-1.0,12.0,16.0,-3.0
+5131,AU,Australia,,,2020-02-22,5.0,4.0,10.0,8.0,3.0,-1.0
+5132,AU,Australia,,,2020-02-23,3.0,4.0,9.0,4.0,-2.0,0.0
+5133,AU,Australia,,,2020-02-24,-1.0,1.0,-10.0,8.0,17.0,-1.0
+5134,AU,Australia,,,2020-02-25,-3.0,-1.0,-8.0,10.0,15.0,-1.0
+5135,AU,Australia,,,2020-02-26,-1.0,0.0,-5.0,10.0,14.0,-1.0
+5136,AU,Australia,,,2020-02-27,0.0,1.0,-2.0,10.0,14.0,-1.0
+5137,AU,Australia,,,2020-02-28,4.0,6.0,0.0,14.0,17.0,-3.0
+5138,AU,Australia,,,2020-02-29,6.0,6.0,18.0,11.0,4.0,-1.0
+5139,AU,Australia,,,2020-03-01,4.0,7.0,20.0,6.0,-1.0,0.0
+5140,AU,Australia,,,2020-03-02,0.0,5.0,-1.0,6.0,10.0,0.0
+5141,AU,Australia,,,2020-03-03,-2.0,7.0,-14.0,9.0,15.0,-1.0
+5142,AU,Australia,,,2020-03-04,0.0,12.0,-15.0,7.0,14.0,-1.0
+5143,AU,Australia,,,2020-03-05,-2.0,9.0,-19.0,6.0,13.0,0.0
+5144,AU,Australia,,,2020-03-06,3.0,14.0,-6.0,9.0,16.0,-2.0
+5145,AU,Australia,,,2020-03-07,3.0,12.0,10.0,3.0,2.0,0.0
+5146,AU,Australia,,,2020-03-08,3.0,8.0,14.0,0.0,-2.0,0.0
+5147,AU,Australia,,,2020-03-09,-3.0,3.0,5.0,-9.0,-14.0,4.0
+5148,AU,Australia,,,2020-03-10,-2.0,9.0,-11.0,6.0,13.0,-1.0
+5149,AU,Australia,,,2020-03-11,-1.0,8.0,-2.0,6.0,14.0,-1.0
+5150,AU,Australia,,,2020-03-12,-1.0,11.0,2.0,6.0,13.0,-1.0
+5151,AU,Australia,,,2020-03-13,1.0,17.0,-8.0,5.0,14.0,-1.0
+5152,AU,Australia,,,2020-03-14,-1.0,20.0,-15.0,-10.0,3.0,2.0
+5153,AU,Australia,,,2020-03-15,-2.0,24.0,-8.0,-13.0,-1.0,2.0
+5154,AU,Australia,,,2020-03-16,-1.0,33.0,-18.0,-7.0,12.0,1.0
+5155,AU,Australia,,,2020-03-17,-5.0,35.0,-21.0,-14.0,5.0,3.0
+5156,AU,Australia,,,2020-03-18,-7.0,32.0,-15.0,-18.0,2.0,5.0
+5157,AU,Australia,,,2020-03-19,-10.0,25.0,-9.0,-22.0,0.0,5.0
+5158,AU,Australia,,,2020-03-20,-12.0,20.0,-12.0,-22.0,0.0,6.0
+5159,AU,Australia,,,2020-03-21,-17.0,11.0,-9.0,-28.0,-4.0,7.0
+5160,AU,Australia,,,2020-03-22,-18.0,10.0,-11.0,-34.0,-12.0,6.0
+5161,AU,Australia,,,2020-03-23,-17.0,17.0,-27.0,-36.0,-6.0,8.0
+5162,AU,Australia,,,2020-03-24,-30.0,4.0,-30.0,-45.0,-19.0,12.0
+5163,AU,Australia,,,2020-03-25,-31.0,2.0,-33.0,-50.0,-23.0,14.0
+5164,AU,Australia,,,2020-03-26,-34.0,2.0,-23.0,-53.0,-27.0,16.0
+5165,AU,Australia,,,2020-03-27,-35.0,2.0,-30.0,-53.0,-26.0,17.0
+5166,AU,Australia,,,2020-03-28,-41.0,-9.0,-34.0,-53.0,-27.0,15.0
+5167,AU,Australia,,,2020-03-29,-45.0,-19.0,-35.0,-58.0,-33.0,13.0
+5168,AU,Australia,,,2020-03-30,-39.0,-13.0,-35.0,-59.0,-32.0,16.0
+5169,AU,Australia,,,2020-03-31,-41.0,-13.0,-35.0,-59.0,-36.0,18.0
+5170,AU,Australia,,,2020-04-01,-40.0,-13.0,-36.0,-60.0,-37.0,19.0
+5171,AU,Australia,,,2020-04-02,-42.0,-13.0,-42.0,-63.0,-38.0,20.0
+5172,AU,Australia,,,2020-04-03,-40.0,-7.0,-41.0,-61.0,-36.0,20.0
+5173,AU,Australia,,,2020-04-04,-44.0,-14.0,-52.0,-61.0,-33.0,17.0
+5174,AU,Australia,,,2020-04-05,-44.0,-18.0,-43.0,-62.0,-36.0,14.0
+5175,AU,Australia,,,2020-04-06,-37.0,-12.0,-35.0,-61.0,-37.0,17.0
+5176,AU,Australia,,,2020-04-07,-38.0,-10.0,-39.0,-61.0,-39.0,19.0
+5177,AU,Australia,,,2020-04-08,-35.0,-6.0,-38.0,-61.0,-39.0,19.0
+5178,AU,Australia,,,2020-04-09,-28.0,15.0,-31.0,-59.0,-40.0,18.0
+5179,AU,Australia,,,2020-04-10,-76.0,-55.0,-43.0,-77.0,-82.0,33.0
+5180,AU,Australia,,,2020-04-11,-40.0,-2.0,-51.0,-63.0,-41.0,18.0
+5181,AU,Australia,,,2020-04-12,-58.0,-38.0,-42.0,-64.0,-43.0,15.0
+5182,AU,Australia,,,2020-04-13,-45.0,-23.0,-18.0,-73.0,-78.0,27.0
+5183,AU,Australia,,,2020-04-14,-37.0,-7.0,-35.0,-61.0,-42.0,19.0
+5184,AU,Australia,,,2020-04-15,-37.0,-10.0,-31.0,-60.0,-41.0,20.0
+5185,AU,Australia,,,2020-04-16,-39.0,-8.0,-27.0,-60.0,-41.0,20.0
+5186,AU,Australia,,,2020-04-17,-37.0,-4.0,-33.0,-59.0,-39.0,20.0
+5187,AU,Australia,,,2020-04-18,-43.0,-11.0,-42.0,-55.0,-30.0,16.0
+5188,AU,Australia,,,2020-04-19,-45.0,-17.0,-35.0,-58.0,-34.0,14.0
+5189,AU,Australia,,,2020-04-20,-39.0,-14.0,-35.0,-60.0,-35.0,17.0
+5190,AU,Australia,,,2020-04-21,-39.0,-13.0,-31.0,-58.0,-37.0,18.0
+5191,AU,Australia,,,2020-04-22,-38.0,-12.0,-28.0,-58.0,-37.0,18.0
+5192,AU,Australia,,,2020-04-23,-39.0,-9.0,-26.0,-58.0,-37.0,19.0
+5193,AU,Australia,,,2020-04-24,-36.0,-2.0,-27.0,-56.0,-35.0,18.0
+5194,AU,Australia,,,2020-04-25,-52.0,-28.0,-30.0,-56.0,-43.0,17.0
+5195,AU,Australia,,,2020-04-26,-36.0,-3.0,-34.0,-55.0,-32.0,13.0
+5196,AU,Australia,,,2020-04-27,-36.0,-10.0,-27.0,-60.0,-39.0,17.0
+5197,AU,Australia,,,2020-04-28,-36.0,-10.0,-37.0,-57.0,-34.0,16.0
+5198,AU,Australia,,,2020-04-29,-38.0,-13.0,-41.0,-58.0,-34.0,11.0
+5199,AU,Australia,,,2020-04-30,-39.0,-8.0,-43.0,-60.0,-34.0,18.0
+5200,AU,Australia,,,2020-05-01,-35.0,-3.0,-42.0,-56.0,-31.0,18.0
+5201,AU,Australia,,,2020-05-02,-33.0,-1.0,-38.0,-51.0,-27.0,13.0
+5202,AU,Australia,,,2020-05-03,-34.0,-6.0,-20.0,-52.0,-29.0,11.0
+5203,AU,Australia,,,2020-05-04,-39.0,-17.0,-24.0,-58.0,-41.0,17.0
+5204,AU,Australia,,,2020-05-05,-32.0,-3.0,-33.0,-55.0,-31.0,16.0
+5205,AU,Australia,,,2020-05-06,-33.0,-6.0,-30.0,-55.0,-31.0,16.0
+5206,AU,Australia,,,2020-05-07,-32.0,-2.0,-25.0,-54.0,-31.0,16.0
+5207,AU,Australia,,,2020-05-08,-29.0,5.0,-23.0,-51.0,-28.0,16.0
+5208,AU,Australia,,,2020-05-09,-25.0,13.0,-32.0,-46.0,-23.0,12.0
+5209,AU,Australia,,,2020-05-10,-29.0,-4.0,-16.0,-46.0,-24.0,9.0
+5210,AU,Australia,,,2020-05-11,-31.0,-7.0,-26.0,-53.0,-27.0,14.0
+5211,AU,Australia,,,2020-05-12,-31.0,-4.0,-30.0,-52.0,-28.0,15.0
+5212,AU,Australia,,,2020-05-13,-31.0,-5.0,-28.0,-52.0,-27.0,15.0
+5213,AU,Australia,,,2020-05-14,-31.0,-4.0,-24.0,-52.0,-28.0,15.0
+5214,AU,Australia,,,2020-05-15,-29.0,2.0,-26.0,-50.0,-27.0,15.0
+5215,AU,Australia,,,2020-05-16,-26.0,3.0,-14.0,-41.0,-22.0,9.0
+5216,AU,Australia,,,2020-05-17,-26.0,-3.0,0.0,-45.0,-24.0,8.0
+5217,AU,Australia,,,2020-05-18,-26.0,-4.0,-25.0,-51.0,-24.0,13.0
+5218,AU,Australia,,,2020-05-19,-28.0,-3.0,-27.0,-51.0,-25.0,14.0
+5219,AU,Australia,,,2020-05-20,-27.0,-3.0,-27.0,-51.0,-25.0,15.0
+5220,AU,Australia,,,2020-05-21,-28.0,-3.0,-33.0,-52.0,-26.0,15.0
+5221,AU,Australia,Australian Capital Territory,,2020-02-15,7.0,5.0,28.0,4.0,6.0,-1.0
+5222,AU,Australia,Australian Capital Territory,,2020-02-16,8.0,19.0,34.0,16.0,2.0,-2.0
+5223,AU,Australia,Australian Capital Territory,,2020-02-17,-1.0,10.0,9.0,21.0,25.0,-4.0
+5224,AU,Australia,Australian Capital Territory,,2020-02-18,-2.0,-1.0,-11.0,12.0,24.0,-2.0
+5225,AU,Australia,Australian Capital Territory,,2020-02-19,2.0,9.0,12.0,17.0,22.0,-3.0
+5226,AU,Australia,Australian Capital Territory,,2020-02-20,8.0,7.0,16.0,20.0,21.0,-4.0
+5227,AU,Australia,Australian Capital Territory,,2020-02-21,9.0,6.0,51.0,24.0,25.0,-4.0
+5228,AU,Australia,Australian Capital Territory,,2020-02-22,21.0,6.0,160.0,44.0,10.0,-4.0
+5229,AU,Australia,Australian Capital Territory,,2020-02-23,11.0,19.0,61.0,25.0,3.0,-3.0
+5230,AU,Australia,Australian Capital Territory,,2020-02-24,1.0,11.0,5.0,19.0,27.0,-3.0
+5231,AU,Australia,Australian Capital Territory,,2020-02-25,1.0,3.0,4.0,13.0,25.0,-3.0
+5232,AU,Australia,Australian Capital Territory,,2020-02-26,1.0,8.0,18.0,16.0,23.0,-3.0
+5233,AU,Australia,Australian Capital Territory,,2020-02-27,7.0,7.0,18.0,22.0,21.0,-4.0
+5234,AU,Australia,Australian Capital Territory,,2020-02-28,10.0,9.0,45.0,24.0,26.0,-4.0
+5235,AU,Australia,Australian Capital Territory,,2020-02-29,16.0,12.0,87.0,26.0,10.0,-3.0
+5236,AU,Australia,Australian Capital Territory,,2020-03-01,11.0,20.0,69.0,21.0,3.0,-2.0
+5237,AU,Australia,Australian Capital Territory,,2020-03-02,1.0,13.0,13.0,19.0,27.0,-3.0
+5238,AU,Australia,Australian Capital Territory,,2020-03-03,1.0,5.0,8.0,9.0,21.0,-2.0
+5239,AU,Australia,Australian Capital Territory,,2020-03-04,-4.0,6.0,-36.0,2.0,22.0,0.0
+5240,AU,Australia,Australian Capital Territory,,2020-03-05,1.0,6.0,-31.0,11.0,20.0,-2.0
+5241,AU,Australia,Australian Capital Territory,,2020-03-06,3.0,15.0,20.0,19.0,23.0,-4.0
+5242,AU,Australia,Australian Capital Territory,,2020-03-07,5.0,8.0,83.0,12.0,4.0,-3.0
+5243,AU,Australia,Australian Capital Territory,,2020-03-08,2.0,7.0,48.0,2.0,0.0,-3.0
+5244,AU,Australia,Australian Capital Territory,,2020-03-09,-4.0,13.0,76.0,-25.0,-72.0,10.0
+5245,AU,Australia,Australian Capital Territory,,2020-03-10,-1.0,10.0,1.0,8.0,23.0,-3.0
+5246,AU,Australia,Australian Capital Territory,,2020-03-11,0.0,13.0,18.0,8.0,22.0,-2.0
+5247,AU,Australia,Australian Capital Territory,,2020-03-12,4.0,13.0,17.0,16.0,20.0,-3.0
+5248,AU,Australia,Australian Capital Territory,,2020-03-13,5.0,20.0,31.0,12.0,25.0,-2.0
+5249,AU,Australia,Australian Capital Territory,,2020-03-14,5.0,26.0,13.0,-4.0,8.0,2.0
+5250,AU,Australia,Australian Capital Territory,,2020-03-15,3.0,29.0,47.0,3.0,3.0,0.0
+5251,AU,Australia,Australian Capital Territory,,2020-03-16,-1.0,40.0,1.0,2.0,23.0,0.0
+5252,AU,Australia,Australian Capital Territory,,2020-03-17,-3.0,33.0,-7.0,-12.0,17.0,1.0
+5253,AU,Australia,Australian Capital Territory,,2020-03-18,-5.0,42.0,2.0,-15.0,12.0,3.0
+5254,AU,Australia,Australian Capital Territory,,2020-03-19,-2.0,37.0,3.0,-12.0,10.0,3.0
+5255,AU,Australia,Australian Capital Territory,,2020-03-20,-7.0,32.0,17.0,-14.0,11.0,5.0
+5256,AU,Australia,Australian Capital Territory,,2020-03-21,-9.0,25.0,52.0,-20.0,1.0,4.0
+5257,AU,Australia,Australian Capital Territory,,2020-03-22,-11.0,25.0,44.0,-26.0,-8.0,4.0
+5258,AU,Australia,Australian Capital Territory,,2020-03-23,-14.0,33.0,-7.0,-25.0,4.0,7.0
+5259,AU,Australia,Australian Capital Territory,,2020-03-24,-30.0,9.0,-7.0,-44.0,-18.0,14.0
+5260,AU,Australia,Australian Capital Territory,,2020-03-25,-33.0,12.0,-5.0,-47.0,-23.0,16.0
+5261,AU,Australia,Australian Capital Territory,,2020-03-26,-32.0,9.0,8.0,-48.0,-28.0,17.0
+5262,AU,Australia,Australian Capital Territory,,2020-03-27,-36.0,15.0,4.0,-50.0,-27.0,20.0
+5263,AU,Australia,Australian Capital Territory,,2020-03-28,-38.0,4.0,25.0,-47.0,-24.0,13.0
+5264,AU,Australia,Australian Capital Territory,,2020-03-29,-40.0,-3.0,38.0,-52.0,-31.0,11.0
+5265,AU,Australia,Australian Capital Territory,,2020-03-30,-42.0,1.0,-18.0,-54.0,-34.0,18.0
+5266,AU,Australia,Australian Capital Territory,,2020-03-31,-42.0,-5.0,-7.0,-58.0,-42.0,20.0
+5267,AU,Australia,Australian Capital Territory,,2020-04-01,-41.0,1.0,0.0,-57.0,-45.0,22.0
+5268,AU,Australia,Australian Capital Territory,,2020-04-02,-44.0,-7.0,-43.0,-64.0,-47.0,23.0
+5269,AU,Australia,Australian Capital Territory,,2020-04-03,-41.0,5.0,-21.0,-60.0,-44.0,25.0
+5270,AU,Australia,Australian Capital Territory,,2020-04-04,-42.0,1.0,-31.0,-60.0,-32.0,15.0
+5271,AU,Australia,Australian Capital Territory,,2020-04-05,-39.0,-3.0,-7.0,-61.0,-36.0,13.0
+5272,AU,Australia,Australian Capital Territory,,2020-04-06,-40.0,3.0,-6.0,-55.0,-45.0,20.0
+5273,AU,Australia,Australian Capital Territory,,2020-04-07,-40.0,-2.0,-11.0,-58.0,-46.0,21.0
+5274,AU,Australia,Australian Capital Territory,,2020-04-08,-38.0,10.0,-18.0,-60.0,-47.0,22.0
+5275,AU,Australia,Australian Capital Territory,,2020-04-09,-27.0,30.0,-11.0,-56.0,-48.0,20.0
+5276,AU,Australia,Australian Capital Territory,,2020-04-10,-74.0,-28.0,-26.0,-78.0,-87.0,38.0
+5277,AU,Australia,Australian Capital Territory,,2020-04-11,-38.0,11.0,-22.0,-61.0,-40.0,15.0
+5278,AU,Australia,Australian Capital Territory,,2020-04-12,-52.0,-24.0,41.0,-55.0,-44.0,13.0
+5279,AU,Australia,Australian Capital Territory,,2020-04-13,-45.0,-5.0,32.0,-70.0,-84.0,29.0
+5280,AU,Australia,Australian Capital Territory,,2020-04-14,-40.0,-1.0,-11.0,-61.0,-50.0,22.0
+5281,AU,Australia,Australian Capital Territory,,2020-04-15,-38.0,8.0,16.0,-58.0,-49.0,23.0
+5282,AU,Australia,Australian Capital Territory,,2020-04-16,-37.0,6.0,-3.0,-57.0,-49.0,22.0
+5283,AU,Australia,Australian Capital Territory,,2020-04-17,-37.0,12.0,15.0,-56.0,-46.0,24.0
+5284,AU,Australia,Australian Capital Territory,,2020-04-18,-39.0,-6.0,47.0,-45.0,-26.0,13.0
+5285,AU,Australia,Australian Capital Territory,,2020-04-19,-41.0,-12.0,49.0,-52.0,-36.0,11.0
+5286,AU,Australia,Australian Capital Territory,,2020-04-20,-43.0,-11.0,-14.0,-54.0,-46.0,20.0
+5287,AU,Australia,Australian Capital Territory,,2020-04-21,-42.0,-15.0,-2.0,-56.0,-46.0,21.0
+5288,AU,Australia,Australian Capital Territory,,2020-04-22,-41.0,-10.0,14.0,-55.0,-46.0,22.0
+5289,AU,Australia,Australian Capital Territory,,2020-04-23,-39.0,-13.0,6.0,-53.0,-47.0,21.0
+5290,AU,Australia,Australian Capital Territory,,2020-04-24,-39.0,-3.0,25.0,-51.0,-44.0,23.0
+5291,AU,Australia,Australian Capital Territory,,2020-04-25,-45.0,-11.0,49.0,-49.0,-42.0,14.0
+5292,AU,Australia,Australian Capital Territory,,2020-04-26,-39.0,-9.0,-26.0,-57.0,-36.0,12.0
+5293,AU,Australia,Australian Capital Territory,,2020-04-27,-40.0,-2.0,64.0,-65.0,-80.0,26.0
+5294,AU,Australia,Australian Capital Territory,,2020-04-28,-41.0,-13.0,-7.0,-53.0,-42.0,19.0
+5295,AU,Australia,Australian Capital Territory,,2020-04-29,-47.0,-17.0,-56.0,-61.0,-45.0,17.0
+5296,AU,Australia,Australian Capital Territory,,2020-04-30,-43.0,-14.0,-52.0,-61.0,-45.0,22.0
+5297,AU,Australia,Australian Capital Territory,,2020-05-01,-43.0,-9.0,-47.0,-59.0,-41.0,24.0
+5298,AU,Australia,Australian Capital Territory,,2020-05-02,-32.0,6.0,-19.0,-46.0,-25.0,12.0
+5299,AU,Australia,Australian Capital Territory,,2020-05-03,-33.0,-1.0,59.0,-45.0,-27.0,9.0
+5300,AU,Australia,Australian Capital Territory,,2020-05-04,-38.0,-4.0,-6.0,-51.0,-40.0,18.0
+5301,AU,Australia,Australian Capital Territory,,2020-05-05,-39.0,-9.0,-3.0,-52.0,-41.0,19.0
+5302,AU,Australia,Australian Capital Territory,,2020-05-06,-37.0,-3.0,4.0,-51.0,-41.0,20.0
+5303,AU,Australia,Australian Capital Territory,,2020-05-07,-37.0,-9.0,-2.0,-50.0,-41.0,19.0
+5304,AU,Australia,Australian Capital Territory,,2020-05-08,-34.0,0.0,22.0,-48.0,-37.0,20.0
+5305,AU,Australia,Australian Capital Territory,,2020-05-09,-25.0,10.0,-10.0,-41.0,-20.0,10.0
+5306,AU,Australia,Australian Capital Territory,,2020-05-10,-30.0,-2.0,49.0,-41.0,-24.0,6.0
+5307,AU,Australia,Australian Capital Territory,,2020-05-11,-38.0,-9.0,-10.0,-49.0,-37.0,17.0
+5308,AU,Australia,Australian Capital Territory,,2020-05-12,-38.0,-8.0,-12.0,-53.0,-37.0,19.0
+5309,AU,Australia,Australian Capital Territory,,2020-05-13,-37.0,-3.0,-4.0,-51.0,-37.0,19.0
+5310,AU,Australia,Australian Capital Territory,,2020-05-14,-34.0,-2.0,11.0,-49.0,-37.0,17.0
+5311,AU,Australia,Australian Capital Territory,,2020-05-15,-34.0,-2.0,26.0,-49.0,-35.0,19.0
+5312,AU,Australia,Australian Capital Territory,,2020-05-16,-24.0,4.0,50.0,-37.0,-18.0,8.0
+5313,AU,Australia,Australian Capital Territory,,2020-05-17,-26.0,1.0,84.0,-43.0,-24.0,7.0
+5314,AU,Australia,Australian Capital Territory,,2020-05-18,-32.0,-3.0,-3.0,-46.0,-31.0,15.0
+5315,AU,Australia,Australian Capital Territory,,2020-05-19,-33.0,-7.0,-7.0,-50.0,-30.0,16.0
+5316,AU,Australia,Australian Capital Territory,,2020-05-20,-33.0,-3.0,-28.0,-52.0,-31.0,18.0
+5317,AU,Australia,Australian Capital Territory,,2020-05-21,-30.0,-3.0,-1.0,-46.0,-32.0,17.0
+5318,AU,Australia,New South Wales,,2020-02-15,4.0,5.0,1.0,10.0,3.0,-1.0
+5319,AU,Australia,New South Wales,,2020-02-16,5.0,6.0,13.0,6.0,-1.0,0.0
+5320,AU,Australia,New South Wales,,2020-02-17,-2.0,0.0,-17.0,6.0,17.0,-1.0
+5321,AU,Australia,New South Wales,,2020-02-18,-3.0,-2.0,-11.0,7.0,14.0,-2.0
+5322,AU,Australia,New South Wales,,2020-02-19,-2.0,-1.0,-2.0,8.0,14.0,-2.0
+5323,AU,Australia,New South Wales,,2020-02-20,2.0,1.0,4.0,9.0,15.0,-2.0
+5324,AU,Australia,New South Wales,,2020-02-21,1.0,2.0,-2.0,10.0,17.0,-3.0
+5325,AU,Australia,New South Wales,,2020-02-22,4.0,6.0,-6.0,8.0,3.0,-1.0
+5326,AU,Australia,New South Wales,,2020-02-23,3.0,6.0,7.0,1.0,-1.0,0.0
+5327,AU,Australia,New South Wales,,2020-02-24,-1.0,1.0,-5.0,7.0,17.0,-2.0
+5328,AU,Australia,New South Wales,,2020-02-25,-3.0,-2.0,-4.0,9.0,15.0,-2.0
+5329,AU,Australia,New South Wales,,2020-02-26,-3.0,-2.0,-3.0,7.0,14.0,-1.0
+5330,AU,Australia,New South Wales,,2020-02-27,3.0,3.0,4.0,10.0,15.0,-2.0
+5331,AU,Australia,New South Wales,,2020-02-28,3.0,5.0,3.0,12.0,18.0,-4.0
+5332,AU,Australia,New South Wales,,2020-02-29,6.0,9.0,13.0,15.0,4.0,-2.0
+5333,AU,Australia,New South Wales,,2020-03-01,4.0,9.0,27.0,4.0,0.0,-1.0
+5334,AU,Australia,New South Wales,,2020-03-02,-1.0,5.0,-7.0,7.0,18.0,-2.0
+5335,AU,Australia,New South Wales,,2020-03-03,-4.0,6.0,-27.0,6.0,15.0,-1.0
+5336,AU,Australia,New South Wales,,2020-03-04,-3.0,14.0,-30.0,2.0,13.0,0.0
+5337,AU,Australia,New South Wales,,2020-03-05,-3.0,7.0,-38.0,2.0,14.0,1.0
+5338,AU,Australia,New South Wales,,2020-03-06,2.0,14.0,-11.0,6.0,17.0,-2.0
+5339,AU,Australia,New South Wales,,2020-03-07,3.0,15.0,-1.0,5.0,4.0,0.0
+5340,AU,Australia,New South Wales,,2020-03-08,2.0,11.0,-1.0,-7.0,0.0,1.0
+5341,AU,Australia,New South Wales,,2020-03-09,-2.0,8.0,-17.0,4.0,16.0,0.0
+5342,AU,Australia,New South Wales,,2020-03-10,-4.0,6.0,-15.0,1.0,13.0,-1.0
+5343,AU,Australia,New South Wales,,2020-03-11,-4.0,7.0,-5.0,2.0,13.0,-1.0
+5344,AU,Australia,New South Wales,,2020-03-12,0.0,10.0,4.0,2.0,13.0,-1.0
+5345,AU,Australia,New South Wales,,2020-03-13,-1.0,14.0,-1.0,1.0,14.0,-2.0
+5346,AU,Australia,New South Wales,,2020-03-14,-5.0,14.0,-35.0,-14.0,1.0,2.0
+5347,AU,Australia,New South Wales,,2020-03-15,-3.0,21.0,-16.0,-17.0,-2.0,3.0
+5348,AU,Australia,New South Wales,,2020-03-16,-5.0,29.0,-34.0,-13.0,9.0,3.0
+5349,AU,Australia,New South Wales,,2020-03-17,-6.0,35.0,-26.0,-19.0,2.0,4.0
+5350,AU,Australia,New South Wales,,2020-03-18,-8.0,36.0,-13.0,-21.0,-2.0,5.0
+5351,AU,Australia,New South Wales,,2020-03-19,-9.0,30.0,-3.0,-24.0,-3.0,6.0
+5352,AU,Australia,New South Wales,,2020-03-20,-14.0,20.0,-3.0,-25.0,-3.0,6.0
+5353,AU,Australia,New South Wales,,2020-03-21,-18.0,16.0,-9.0,-26.0,-5.0,6.0
+5354,AU,Australia,New South Wales,,2020-03-22,-16.0,17.0,3.0,-34.0,-12.0,6.0
+5355,AU,Australia,New South Wales,,2020-03-23,-20.0,19.0,-28.0,-38.0,-11.0,9.0
+5356,AU,Australia,New South Wales,,2020-03-24,-33.0,4.0,-33.0,-47.0,-24.0,14.0
+5357,AU,Australia,New South Wales,,2020-03-25,-36.0,0.0,-41.0,-53.0,-28.0,16.0
+5358,AU,Australia,New South Wales,,2020-03-26,-37.0,3.0,-33.0,-55.0,-32.0,18.0
+5359,AU,Australia,New South Wales,,2020-03-27,-39.0,3.0,-30.0,-54.0,-31.0,18.0
+5360,AU,Australia,New South Wales,,2020-03-28,-44.0,-7.0,-39.0,-52.0,-29.0,15.0
+5361,AU,Australia,New South Wales,,2020-03-29,-44.0,-13.0,-27.0,-57.0,-35.0,14.0
+5362,AU,Australia,New South Wales,,2020-03-30,-43.0,-13.0,-38.0,-60.0,-36.0,18.0
+5363,AU,Australia,New South Wales,,2020-03-31,-43.0,-13.0,-35.0,-60.0,-40.0,19.0
+5364,AU,Australia,New South Wales,,2020-04-01,-44.0,-12.0,-42.0,-62.0,-41.0,20.0
+5365,AU,Australia,New South Wales,,2020-04-02,-44.0,-12.0,-47.0,-63.0,-41.0,22.0
+5366,AU,Australia,New South Wales,,2020-04-03,-44.0,-8.0,-47.0,-61.0,-39.0,21.0
+5367,AU,Australia,New South Wales,,2020-04-04,-46.0,-10.0,-49.0,-58.0,-35.0,17.0
+5368,AU,Australia,New South Wales,,2020-04-05,-43.0,-11.0,-27.0,-59.0,-37.0,14.0
+5369,AU,Australia,New South Wales,,2020-04-06,-40.0,-11.0,-35.0,-60.0,-39.0,18.0
+5370,AU,Australia,New South Wales,,2020-04-07,-41.0,-9.0,-44.0,-61.0,-42.0,20.0
+5371,AU,Australia,New South Wales,,2020-04-08,-39.0,-5.0,-46.0,-62.0,-41.0,20.0
+5372,AU,Australia,New South Wales,,2020-04-09,-30.0,16.0,-37.0,-60.0,-42.0,19.0
+5373,AU,Australia,New South Wales,,2020-04-10,-72.0,-49.0,-53.0,-77.0,-82.0,34.0
+5374,AU,Australia,New South Wales,,2020-04-11,-43.0,-2.0,-48.0,-60.0,-43.0,18.0
+5375,AU,Australia,New South Wales,,2020-04-12,-63.0,-39.0,-33.0,-63.0,-48.0,17.0
+5376,AU,Australia,New South Wales,,2020-04-13,-44.0,-19.0,-18.0,-72.0,-79.0,28.0
+5377,AU,Australia,New South Wales,,2020-04-14,-38.0,-6.0,-34.0,-62.0,-46.0,20.0
+5378,AU,Australia,New South Wales,,2020-04-15,-40.0,-7.0,-27.0,-60.0,-44.0,20.0
+5379,AU,Australia,New South Wales,,2020-04-16,-40.0,-6.0,-26.0,-60.0,-43.0,21.0
+5380,AU,Australia,New South Wales,,2020-04-17,-40.0,-3.0,-27.0,-58.0,-41.0,20.0
+5381,AU,Australia,New South Wales,,2020-04-18,-44.0,-9.0,-34.0,-51.0,-31.0,15.0
+5382,AU,Australia,New South Wales,,2020-04-19,-46.0,-13.0,-27.0,-57.0,-36.0,14.0
+5383,AU,Australia,New South Wales,,2020-04-20,-41.0,-15.0,-34.0,-60.0,-40.0,19.0
+5384,AU,Australia,New South Wales,,2020-04-21,-41.0,-14.0,-28.0,-59.0,-42.0,19.0
+5385,AU,Australia,New South Wales,,2020-04-22,-41.0,-12.0,-23.0,-58.0,-41.0,19.0
+5386,AU,Australia,New South Wales,,2020-04-23,-39.0,-8.0,-17.0,-57.0,-41.0,20.0
+5387,AU,Australia,New South Wales,,2020-04-24,-39.0,-4.0,-22.0,-56.0,-39.0,19.0
+5388,AU,Australia,New South Wales,,2020-04-25,-49.0,-16.0,-26.0,-51.0,-44.0,16.0
+5389,AU,Australia,New South Wales,,2020-04-26,-40.0,-6.0,-26.0,-55.0,-35.0,13.0
+5390,AU,Australia,New South Wales,,2020-04-27,-39.0,-12.0,-37.0,-59.0,-38.0,18.0
+5391,AU,Australia,New South Wales,,2020-04-28,-40.0,-12.0,-37.0,-58.0,-38.0,17.0
+5392,AU,Australia,New South Wales,,2020-04-29,-41.0,-13.0,-35.0,-58.0,-38.0,12.0
+5393,AU,Australia,New South Wales,,2020-04-30,-43.0,-12.0,-56.0,-62.0,-39.0,21.0
+5394,AU,Australia,New South Wales,,2020-05-01,-37.0,-3.0,-39.0,-55.0,-35.0,18.0
+5395,AU,Australia,New South Wales,,2020-05-02,-35.0,1.0,-45.0,-47.0,-28.0,13.0
+5396,AU,Australia,New South Wales,,2020-05-03,-35.0,-3.0,-18.0,-50.0,-30.0,11.0
+5397,AU,Australia,New South Wales,,2020-05-04,-35.0,-9.0,-29.0,-56.0,-34.0,16.0
+5398,AU,Australia,New South Wales,,2020-05-05,-37.0,-9.0,-37.0,-56.0,-36.0,17.0
+5399,AU,Australia,New South Wales,,2020-05-06,-36.0,-6.0,-23.0,-54.0,-35.0,18.0
+5400,AU,Australia,New South Wales,,2020-05-07,-33.0,-1.0,-21.0,-53.0,-35.0,18.0
+5401,AU,Australia,New South Wales,,2020-05-08,-32.0,4.0,-17.0,-50.0,-33.0,16.0
+5402,AU,Australia,New South Wales,,2020-05-09,-26.0,15.0,-25.0,-38.0,-24.0,10.0
+5403,AU,Australia,New South Wales,,2020-05-10,-30.0,-1.0,-15.0,-43.0,-25.0,8.0
+5404,AU,Australia,New South Wales,,2020-05-11,-33.0,-7.0,-25.0,-52.0,-30.0,15.0
+5405,AU,Australia,New South Wales,,2020-05-12,-33.0,-4.0,-29.0,-52.0,-31.0,16.0
+5406,AU,Australia,New South Wales,,2020-05-13,-34.0,-4.0,-28.0,-52.0,-31.0,16.0
+5407,AU,Australia,New South Wales,,2020-05-14,-33.0,-4.0,-36.0,-53.0,-31.0,16.0
+5408,AU,Australia,New South Wales,,2020-05-15,-32.0,-1.0,-40.0,-51.0,-30.0,16.0
+5409,AU,Australia,New South Wales,,2020-05-16,-28.0,4.0,-27.0,-38.0,-23.0,9.0
+5410,AU,Australia,New South Wales,,2020-05-17,-26.0,-2.0,1.0,-42.0,-25.0,9.0
+5411,AU,Australia,New South Wales,,2020-05-18,-29.0,-4.0,-33.0,-52.0,-28.0,15.0
+5412,AU,Australia,New South Wales,,2020-05-19,-29.0,-3.0,-23.0,-50.0,-29.0,15.0
+5413,AU,Australia,New South Wales,,2020-05-20,-29.0,-3.0,-17.0,-49.0,-29.0,15.0
+5414,AU,Australia,New South Wales,,2020-05-21,-30.0,-4.0,-38.0,-51.0,-29.0,17.0
+5415,AU,Australia,Northern Territory,,2020-02-15,7.0,8.0,10.0,-3.0,2.0,0.0
+5416,AU,Australia,Northern Territory,,2020-02-16,4.0,14.0,6.0,-2.0,2.0,2.0
+5417,AU,Australia,Northern Territory,,2020-02-17,3.0,3.0,21.0,8.0,21.0,-1.0
+5418,AU,Australia,Northern Territory,,2020-02-18,0.0,-4.0,5.0,4.0,15.0,-1.0
+5419,AU,Australia,Northern Territory,,2020-02-19,6.0,2.0,13.0,0.0,16.0,-1.0
+5420,AU,Australia,Northern Territory,,2020-02-20,4.0,0.0,3.0,4.0,14.0,-1.0
+5421,AU,Australia,Northern Territory,,2020-02-21,7.0,8.0,-5.0,6.0,20.0,-2.0
+5422,AU,Australia,Northern Territory,,2020-02-22,12.0,8.0,12.0,-2.0,3.0,0.0
+5423,AU,Australia,Northern Territory,,2020-02-23,7.0,9.0,1.0,7.0,3.0,1.0
+5424,AU,Australia,Northern Territory,,2020-02-24,7.0,4.0,31.0,11.0,22.0,-2.0
+5425,AU,Australia,Northern Territory,,2020-02-25,5.0,-1.0,21.0,6.0,17.0,-2.0
+5426,AU,Australia,Northern Territory,,2020-02-26,7.0,5.0,5.0,5.0,18.0,-1.0
+5427,AU,Australia,Northern Territory,,2020-02-27,3.0,0.0,-3.0,4.0,13.0,1.0
+5428,AU,Australia,Northern Territory,,2020-02-28,11.0,9.0,4.0,5.0,21.0,-2.0
+5429,AU,Australia,Northern Territory,,2020-02-29,11.0,10.0,18.0,-10.0,6.0,1.0
+5430,AU,Australia,Northern Territory,,2020-03-01,5.0,15.0,13.0,-2.0,4.0,1.0
+5431,AU,Australia,Northern Territory,,2020-03-02,5.0,7.0,16.0,8.0,23.0,-1.0
+5432,AU,Australia,Northern Territory,,2020-03-03,2.0,-1.0,4.0,8.0,17.0,-1.0
+5433,AU,Australia,Northern Territory,,2020-03-04,8.0,7.0,7.0,4.0,20.0,-2.0
+5434,AU,Australia,Northern Territory,,2020-03-05,9.0,12.0,28.0,7.0,16.0,-1.0
+5435,AU,Australia,Northern Territory,,2020-03-06,12.0,12.0,12.0,2.0,20.0,-2.0
+5436,AU,Australia,Northern Territory,,2020-03-07,11.0,14.0,13.0,-4.0,2.0,1.0
+5437,AU,Australia,Northern Territory,,2020-03-08,5.0,9.0,-4.0,-7.0,5.0,2.0
+5438,AU,Australia,Northern Territory,,2020-03-09,3.0,4.0,10.0,1.0,22.0,0.0
+5439,AU,Australia,Northern Territory,,2020-03-10,3.0,0.0,11.0,4.0,17.0,-2.0
+5440,AU,Australia,Northern Territory,,2020-03-11,4.0,6.0,15.0,3.0,19.0,-1.0
+5441,AU,Australia,Northern Territory,,2020-03-12,4.0,4.0,19.0,4.0,16.0,0.0
+5442,AU,Australia,Northern Territory,,2020-03-13,6.0,15.0,14.0,-2.0,20.0,-2.0
+5443,AU,Australia,Northern Territory,,2020-03-14,9.0,13.0,17.0,-10.0,2.0,1.0
+5444,AU,Australia,Northern Territory,,2020-03-15,3.0,21.0,10.0,-9.0,4.0,2.0
+5445,AU,Australia,Northern Territory,,2020-03-16,7.0,21.0,12.0,-4.0,24.0,-1.0
+5446,AU,Australia,Northern Territory,,2020-03-17,2.0,12.0,7.0,-6.0,16.0,0.0
+5447,AU,Australia,Northern Territory,,2020-03-18,3.0,20.0,5.0,-8.0,18.0,1.0
+5448,AU,Australia,Northern Territory,,2020-03-19,5.0,20.0,5.0,-7.0,16.0,1.0
+5449,AU,Australia,Northern Territory,,2020-03-20,4.0,23.0,10.0,-10.0,18.0,1.0
+5450,AU,Australia,Northern Territory,,2020-03-21,-1.0,19.0,5.0,-21.0,-2.0,4.0
+5451,AU,Australia,Northern Territory,,2020-03-22,-5.0,12.0,-1.0,-18.0,-2.0,4.0
+5452,AU,Australia,Northern Territory,,2020-03-23,-4.0,28.0,4.0,-10.0,17.0,3.0
+5453,AU,Australia,Northern Territory,,2020-03-24,-15.0,7.0,-14.0,-21.0,6.0,6.0
+5454,AU,Australia,Northern Territory,,2020-03-25,-14.0,13.0,-15.0,-28.0,5.0,7.0
+5455,AU,Australia,Northern Territory,,2020-03-26,-21.0,5.0,-11.0,-31.0,-1.0,9.0
+5456,AU,Australia,Northern Territory,,2020-03-27,-24.0,10.0,-13.0,-39.0,1.0,10.0
+5457,AU,Australia,Northern Territory,,2020-03-28,-30.0,-6.0,-21.0,-47.0,-21.0,12.0
+5458,AU,Australia,Northern Territory,,2020-03-29,-35.0,-13.0,-20.0,-55.0,-23.0,
+5459,AU,Australia,Northern Territory,,2020-03-30,-23.0,-5.0,-14.0,-43.0,-2.0,10.0
+5460,AU,Australia,Northern Territory,,2020-03-31,-25.0,-10.0,-22.0,-40.0,-9.0,10.0
+5461,AU,Australia,Northern Territory,,2020-04-01,-24.0,-6.0,-20.0,-43.0,-8.0,11.0
+5462,AU,Australia,Northern Territory,,2020-04-02,-24.0,-2.0,-18.0,-46.0,-11.0,13.0
+5463,AU,Australia,Northern Territory,,2020-04-03,-24.0,9.0,-21.0,-45.0,-8.0,12.0
+5464,AU,Australia,Northern Territory,,2020-04-04,-26.0,-9.0,-20.0,-52.0,-23.0,12.0
+5465,AU,Australia,Northern Territory,,2020-04-05,-29.0,-16.0,-22.0,-58.0,-25.0,
+5466,AU,Australia,Northern Territory,,2020-04-06,-21.0,-2.0,-13.0,-47.0,-8.0,11.0
+5467,AU,Australia,Northern Territory,,2020-04-07,-23.0,-4.0,-19.0,-48.0,-14.0,11.0
+5468,AU,Australia,Northern Territory,,2020-04-08,-20.0,2.0,-16.0,-44.0,-12.0,12.0
+5469,AU,Australia,Northern Territory,,2020-04-09,-11.0,21.0,-15.0,-41.0,-15.0,11.0
+5470,AU,Australia,Northern Territory,,2020-04-10,-67.0,-60.0,-27.0,-67.0,-74.0,30.0
+5471,AU,Australia,Northern Territory,,2020-04-11,-24.0,7.0,-19.0,-54.0,-30.0,12.0
+5472,AU,Australia,Northern Territory,,2020-04-12,-36.0,-25.0,-15.0,-57.0,-27.0,
+5473,AU,Australia,Northern Territory,,2020-04-13,-35.0,-21.0,3.0,-63.0,-70.0,25.0
+5474,AU,Australia,Northern Territory,,2020-04-14,-21.0,-5.0,-10.0,-45.0,-19.0,12.0
+5475,AU,Australia,Northern Territory,,2020-04-15,-21.0,-1.0,-11.0,-43.0,-16.0,13.0
+5476,AU,Australia,Northern Territory,,2020-04-16,-20.0,0.0,-11.0,-43.0,-18.0,13.0
+5477,AU,Australia,Northern Territory,,2020-04-17,-21.0,10.0,-12.0,-42.0,-15.0,13.0
+5478,AU,Australia,Northern Territory,,2020-04-18,-25.0,-6.0,-10.0,-39.0,-21.0,10.0
+5479,AU,Australia,Northern Territory,,2020-04-19,-29.0,-8.0,-11.0,-48.0,-23.0,
+5480,AU,Australia,Northern Territory,,2020-04-20,-20.0,0.0,-15.0,-39.0,1.0,9.0
+5481,AU,Australia,Northern Territory,,2020-04-21,-24.0,-7.0,-15.0,-40.0,-3.0,9.0
+5482,AU,Australia,Northern Territory,,2020-04-22,-22.0,-3.0,-12.0,-35.0,-2.0,9.0
+5483,AU,Australia,Northern Territory,,2020-04-23,-21.0,-2.0,-10.0,-34.0,-4.0,10.0
+5484,AU,Australia,Northern Territory,,2020-04-24,-19.0,10.0,-8.0,-36.0,-1.0,9.0
+5485,AU,Australia,Northern Territory,,2020-04-25,-32.0,-11.0,-2.0,-42.0,-32.0,11.0
+5486,AU,Australia,Northern Territory,,2020-04-26,-20.0,-2.0,-9.0,-42.0,-22.0,8.0
+5487,AU,Australia,Northern Territory,,2020-04-27,-18.0,2.0,-4.0,-35.0,4.0,8.0
+5488,AU,Australia,Northern Territory,,2020-04-28,-17.0,-5.0,-4.0,-29.0,1.0,6.0
+5489,AU,Australia,Northern Territory,,2020-04-29,-18.0,2.0,-13.0,-33.0,2.0,1.0
+5490,AU,Australia,Northern Territory,,2020-04-30,-19.0,9.0,-4.0,-34.0,-1.0,9.0
+5491,AU,Australia,Northern Territory,,2020-05-01,-15.0,22.0,3.0,-33.0,0.0,8.0
+5492,AU,Australia,Northern Territory,,2020-05-02,-16.0,13.0,23.0,-32.0,-19.0,6.0
+5493,AU,Australia,Northern Territory,,2020-05-03,-18.0,8.0,28.0,-37.0,-21.0,4.0
+5494,AU,Australia,Northern Territory,,2020-05-04,-22.0,3.0,45.0,-45.0,-67.0,19.0
+5495,AU,Australia,Northern Territory,,2020-05-05,-16.0,8.0,-3.0,-30.0,5.0,6.0
+5496,AU,Australia,Northern Territory,,2020-05-06,-17.0,12.0,0.0,-28.0,6.0,7.0
+5497,AU,Australia,Northern Territory,,2020-05-07,-17.0,9.0,6.0,-29.0,3.0,8.0
+5498,AU,Australia,Northern Territory,,2020-05-08,-14.0,21.0,7.0,-26.0,7.0,7.0
+5499,AU,Australia,Northern Territory,,2020-05-09,-12.0,19.0,30.0,-29.0,-15.0,6.0
+5500,AU,Australia,Northern Territory,,2020-05-10,-14.0,17.0,28.0,-35.0,-17.0,5.0
+5501,AU,Australia,Northern Territory,,2020-05-11,-15.0,9.0,-1.0,-33.0,10.0,6.0
+5502,AU,Australia,Northern Territory,,2020-05-12,-14.0,7.0,-2.0,-26.0,7.0,6.0
+5503,AU,Australia,Northern Territory,,2020-05-13,-15.0,9.0,-3.0,-28.0,8.0,6.0
+5504,AU,Australia,Northern Territory,,2020-05-14,-13.0,12.0,10.0,-27.0,5.0,6.0
+5505,AU,Australia,Northern Territory,,2020-05-15,-4.0,17.0,13.0,-28.0,8.0,4.0
+5506,AU,Australia,Northern Territory,,2020-05-16,-5.0,16.0,29.0,-26.0,-11.0,4.0
+5507,AU,Australia,Northern Territory,,2020-05-17,-5.0,14.0,21.0,-40.0,-12.0,4.0
+5508,AU,Australia,Northern Territory,,2020-05-18,-2.0,12.0,1.0,-25.0,13.0,5.0
+5509,AU,Australia,Northern Territory,,2020-05-19,-5.0,8.0,-3.0,-24.0,9.0,4.0
+5510,AU,Australia,Northern Territory,,2020-05-20,-5.0,18.0,-2.0,-27.0,11.0,5.0
+5511,AU,Australia,Northern Territory,,2020-05-21,-6.0,14.0,3.0,-27.0,7.0,6.0
+5512,AU,Australia,Queensland,,2020-02-15,3.0,4.0,-8.0,-2.0,1.0,1.0
+5513,AU,Australia,Queensland,,2020-02-16,2.0,3.0,-9.0,-4.0,-1.0,1.0
+5514,AU,Australia,Queensland,,2020-02-17,-2.0,1.0,-14.0,4.0,16.0,-1.0
+5515,AU,Australia,Queensland,,2020-02-18,-2.0,1.0,-1.0,5.0,12.0,-2.0
+5516,AU,Australia,Queensland,,2020-02-19,-3.0,-1.0,-6.0,4.0,10.0,-1.0
+5517,AU,Australia,Queensland,,2020-02-20,-1.0,1.0,2.0,6.0,10.0,-2.0
+5518,AU,Australia,Queensland,,2020-02-21,-1.0,1.0,-5.0,5.0,15.0,-2.0
+5519,AU,Australia,Queensland,,2020-02-22,3.0,3.0,-6.0,3.0,1.0,0.0
+5520,AU,Australia,Queensland,,2020-02-23,1.0,2.0,-23.0,-5.0,-2.0,1.0
+5521,AU,Australia,Queensland,,2020-02-24,-4.0,-1.0,-29.0,5.0,17.0,-1.0
+5522,AU,Australia,Queensland,,2020-02-25,-3.0,-1.0,-12.0,4.0,13.0,-1.0
+5523,AU,Australia,Queensland,,2020-02-26,-3.0,-1.0,-5.0,7.0,11.0,-1.0
+5524,AU,Australia,Queensland,,2020-02-27,-4.0,0.0,-10.0,6.0,11.0,-1.0
+5525,AU,Australia,Queensland,,2020-02-28,0.0,2.0,-4.0,9.0,17.0,-2.0
+5526,AU,Australia,Queensland,,2020-02-29,6.0,5.0,1.0,8.0,3.0,0.0
+5527,AU,Australia,Queensland,,2020-03-01,3.0,6.0,5.0,2.0,0.0,0.0
+5528,AU,Australia,Queensland,,2020-03-02,-2.0,4.0,-11.0,6.0,18.0,-2.0
+5529,AU,Australia,Queensland,,2020-03-03,-2.0,6.0,-2.0,4.0,14.0,-2.0
+5530,AU,Australia,Queensland,,2020-03-04,-2.0,8.0,-9.0,4.0,11.0,-1.0
+5531,AU,Australia,Queensland,,2020-03-05,-3.0,8.0,-1.0,6.0,11.0,-2.0
+5532,AU,Australia,Queensland,,2020-03-06,-1.0,6.0,-11.0,5.0,16.0,-2.0
+5533,AU,Australia,Queensland,,2020-03-07,2.0,8.0,-3.0,-2.0,2.0,1.0
+5534,AU,Australia,Queensland,,2020-03-08,2.0,5.0,-7.0,-4.0,0.0,1.0
+5535,AU,Australia,Queensland,,2020-03-09,-8.0,-2.0,-43.0,-1.0,16.0,1.0
+5536,AU,Australia,Queensland,,2020-03-10,-4.0,4.0,-25.0,1.0,13.0,0.0
+5537,AU,Australia,Queensland,,2020-03-11,-3.0,5.0,-9.0,3.0,11.0,0.0
+5538,AU,Australia,Queensland,,2020-03-12,-4.0,4.0,-21.0,2.0,10.0,-1.0
+5539,AU,Australia,Queensland,,2020-03-13,-1.0,9.0,-13.0,1.0,15.0,-1.0
+5540,AU,Australia,Queensland,,2020-03-14,1.0,14.0,-8.0,-6.0,2.0,2.0
+5541,AU,Australia,Queensland,,2020-03-15,-1.0,15.0,-6.0,-8.0,-1.0,2.0
+5542,AU,Australia,Queensland,,2020-03-16,-1.0,26.0,-17.0,-7.0,14.0,1.0
+5543,AU,Australia,Queensland,,2020-03-17,-4.0,29.0,-12.0,-12.0,7.0,2.0
+5544,AU,Australia,Queensland,,2020-03-18,-6.0,26.0,-14.0,-15.0,3.0,4.0
+5545,AU,Australia,Queensland,,2020-03-19,-9.0,21.0,-7.0,-18.0,1.0,3.0
+5546,AU,Australia,Queensland,,2020-03-20,-11.0,15.0,-9.0,-19.0,4.0,4.0
+5547,AU,Australia,Queensland,,2020-03-21,-15.0,8.0,-6.0,-25.0,-5.0,6.0
+5548,AU,Australia,Queensland,,2020-03-22,-18.0,1.0,-10.0,-30.0,-11.0,5.0
+5549,AU,Australia,Queensland,,2020-03-23,-15.0,19.0,-30.0,-30.0,0.0,6.0
+5550,AU,Australia,Queensland,,2020-03-24,-23.0,11.0,-26.0,-36.0,-10.0,9.0
+5551,AU,Australia,Queensland,,2020-03-25,-24.0,8.0,-23.0,-40.0,-15.0,10.0
+5552,AU,Australia,Queensland,,2020-03-26,-28.0,7.0,-17.0,-46.0,-21.0,12.0
+5553,AU,Australia,Queensland,,2020-03-27,-30.0,3.0,-35.0,-50.0,-18.0,13.0
+5554,AU,Australia,Queensland,,2020-03-28,-34.0,-3.0,-35.0,-49.0,-26.0,13.0
+5555,AU,Australia,Queensland,,2020-03-29,-40.0,-19.0,-33.0,-57.0,-30.0,12.0
+5556,AU,Australia,Queensland,,2020-03-30,-35.0,-11.0,-34.0,-55.0,-25.0,13.0
+5557,AU,Australia,Queensland,,2020-03-31,-34.0,-9.0,-28.0,-56.0,-30.0,14.0
+5558,AU,Australia,Queensland,,2020-04-01,-34.0,-9.0,-29.0,-56.0,-32.0,16.0
+5559,AU,Australia,Queensland,,2020-04-02,-35.0,-8.0,-27.0,-58.0,-33.0,15.0
+5560,AU,Australia,Queensland,,2020-04-03,-35.0,-7.0,-33.0,-58.0,-29.0,16.0
+5561,AU,Australia,Queensland,,2020-04-04,-38.0,-11.0,-44.0,-59.0,-31.0,15.0
+5562,AU,Australia,Queensland,,2020-04-05,-37.0,-17.0,-35.0,-60.0,-33.0,12.0
+5563,AU,Australia,Queensland,,2020-04-06,-31.0,-8.0,-33.0,-58.0,-33.0,15.0
+5564,AU,Australia,Queensland,,2020-04-07,-31.0,-5.0,-27.0,-57.0,-37.0,15.0
+5565,AU,Australia,Queensland,,2020-04-08,-30.0,-3.0,-35.0,-57.0,-37.0,16.0
+5566,AU,Australia,Queensland,,2020-04-09,-21.0,21.0,-32.0,-56.0,-39.0,14.0
+5567,AU,Australia,Queensland,,2020-04-10,-78.0,-58.0,-46.0,-77.0,-81.0,31.0
+5568,AU,Australia,Queensland,,2020-04-11,-34.0,0.0,-50.0,-62.0,-39.0,15.0
+5569,AU,Australia,Queensland,,2020-04-12,-51.0,-40.0,-47.0,-64.0,-39.0,13.0
+5570,AU,Australia,Queensland,,2020-04-13,-46.0,-27.0,-29.0,-73.0,-77.0,25.0
+5571,AU,Australia,Queensland,,2020-04-14,-31.0,-2.0,-29.0,-58.0,-38.0,16.0
+5572,AU,Australia,Queensland,,2020-04-15,-33.0,-8.0,-29.0,-57.0,-38.0,17.0
+5573,AU,Australia,Queensland,,2020-04-16,-34.0,-5.0,-23.0,-58.0,-38.0,16.0
+5574,AU,Australia,Queensland,,2020-04-17,-33.0,-6.0,-31.0,-59.0,-35.0,17.0
+5575,AU,Australia,Queensland,,2020-04-18,-40.0,-12.0,-50.0,-57.0,-30.0,14.0
+5576,AU,Australia,Queensland,,2020-04-19,-41.0,-18.0,-43.0,-60.0,-32.0,12.0
+5577,AU,Australia,Queensland,,2020-04-20,-36.0,-12.0,-34.0,-57.0,-27.0,14.0
+5578,AU,Australia,Queensland,,2020-04-21,-35.0,-10.0,-25.0,-56.0,-29.0,14.0
+5579,AU,Australia,Queensland,,2020-04-22,-36.0,-11.0,-26.0,-55.0,-30.0,15.0
+5580,AU,Australia,Queensland,,2020-04-23,-36.0,-7.0,-24.0,-56.0,-30.0,15.0
+5581,AU,Australia,Queensland,,2020-04-24,-31.0,-1.0,-31.0,-55.0,-27.0,14.0
+5582,AU,Australia,Queensland,,2020-04-25,-62.0,-54.0,-31.0,-58.0,-49.0,16.0
+5583,AU,Australia,Queensland,,2020-04-26,-23.0,9.0,-34.0,-55.0,-28.0,10.0
+5584,AU,Australia,Queensland,,2020-04-27,-31.0,-6.0,-33.0,-56.0,-25.0,13.0
+5585,AU,Australia,Queensland,,2020-04-28,-32.0,-7.0,-33.0,-55.0,-27.0,13.0
+5586,AU,Australia,Queensland,,2020-04-29,-33.0,-10.0,-26.0,-53.0,-29.0,7.0
+5587,AU,Australia,Queensland,,2020-04-30,-34.0,-5.0,-24.0,-56.0,-29.0,14.0
+5588,AU,Australia,Queensland,,2020-05-01,-29.0,-3.0,-29.0,-54.0,-25.0,14.0
+5589,AU,Australia,Queensland,,2020-05-02,-25.0,3.0,-19.0,-49.0,-25.0,11.0
+5590,AU,Australia,Queensland,,2020-05-03,-23.0,0.0,-7.0,-52.0,-27.0,8.0
+5591,AU,Australia,Queensland,,2020-05-04,-54.0,-47.0,20.0,-66.0,-76.0,23.0
+5592,AU,Australia,Queensland,,2020-05-05,-21.0,17.0,-24.0,-53.0,-25.0,12.0
+5593,AU,Australia,Queensland,,2020-05-06,-28.0,-1.0,-25.0,-52.0,-26.0,14.0
+5594,AU,Australia,Queensland,,2020-05-07,-27.0,1.0,-20.0,-52.0,-26.0,13.0
+5595,AU,Australia,Queensland,,2020-05-08,-24.0,4.0,-18.0,-51.0,-22.0,13.0
+5596,AU,Australia,Queensland,,2020-05-09,-17.0,17.0,-14.0,-44.0,-21.0,9.0
+5597,AU,Australia,Queensland,,2020-05-10,-22.0,-1.0,0.0,-47.0,-20.0,6.0
+5598,AU,Australia,Queensland,,2020-05-11,-26.0,-5.0,-24.0,-50.0,-18.0,11.0
+5599,AU,Australia,Queensland,,2020-05-12,-26.0,-2.0,-19.0,-50.0,-21.0,12.0
+5600,AU,Australia,Queensland,,2020-05-13,-27.0,-3.0,-19.0,-48.0,-22.0,12.0
+5601,AU,Australia,Queensland,,2020-05-14,-27.0,-2.0,-16.0,-50.0,-22.0,11.0
+5602,AU,Australia,Queensland,,2020-05-15,-25.0,2.0,-14.0,-49.0,-21.0,12.0
+5603,AU,Australia,Queensland,,2020-05-16,-21.0,5.0,-10.0,-43.0,-20.0,8.0
+5604,AU,Australia,Queensland,,2020-05-17,-21.0,0.0,-1.0,-49.0,-22.0,7.0
+5605,AU,Australia,Queensland,,2020-05-18,-22.0,-2.0,-29.0,-50.0,-17.0,11.0
+5606,AU,Australia,Queensland,,2020-05-19,-23.0,-1.0,-18.0,-49.0,-19.0,11.0
+5607,AU,Australia,Queensland,,2020-05-20,-23.0,-2.0,-28.0,-49.0,-21.0,12.0
+5608,AU,Australia,Queensland,,2020-05-21,-23.0,-1.0,-31.0,-51.0,-21.0,12.0
+5609,AU,Australia,South Australia,,2020-02-15,6.0,2.0,5.0,4.0,2.0,0.0
+5610,AU,Australia,South Australia,,2020-02-16,1.0,2.0,15.0,1.0,-2.0,0.0
+5611,AU,Australia,South Australia,,2020-02-17,-1.0,0.0,-3.0,10.0,17.0,-2.0
+5612,AU,Australia,South Australia,,2020-02-18,-2.0,-1.0,-13.0,7.0,13.0,-1.0
+5613,AU,Australia,South Australia,,2020-02-19,0.0,0.0,2.0,6.0,13.0,-1.0
+5614,AU,Australia,South Australia,,2020-02-20,4.0,2.0,8.0,10.0,11.0,-1.0
+5615,AU,Australia,South Australia,,2020-02-21,5.0,2.0,9.0,19.0,15.0,-3.0
+5616,AU,Australia,South Australia,,2020-02-22,8.0,1.0,23.0,15.0,2.0,-1.0
+5617,AU,Australia,South Australia,,2020-02-23,2.0,2.0,27.0,9.0,-2.0,-1.0
+5618,AU,Australia,South Australia,,2020-02-24,-1.0,2.0,-5.0,14.0,16.0,-1.0
+5619,AU,Australia,South Australia,,2020-02-25,0.0,2.0,-1.0,10.0,14.0,-1.0
+5620,AU,Australia,South Australia,,2020-02-26,4.0,0.0,2.0,20.0,13.0,-2.0
+5621,AU,Australia,South Australia,,2020-02-27,4.0,3.0,5.0,13.0,12.0,-1.0
+5622,AU,Australia,South Australia,,2020-02-28,5.0,3.0,10.0,18.0,17.0,-3.0
+5623,AU,Australia,South Australia,,2020-02-29,9.0,2.0,29.0,23.0,4.0,-1.0
+5624,AU,Australia,South Australia,,2020-03-01,2.0,4.0,5.0,5.0,-1.0,0.0
+5625,AU,Australia,South Australia,,2020-03-02,1.0,5.0,-12.0,16.0,19.0,-2.0
+5626,AU,Australia,South Australia,,2020-03-03,0.0,4.0,-13.0,12.0,15.0,-1.0
+5627,AU,Australia,South Australia,,2020-03-04,1.0,8.0,0.0,13.0,14.0,-1.0
+5628,AU,Australia,South Australia,,2020-03-05,6.0,12.0,5.0,17.0,13.0,-2.0
+5629,AU,Australia,South Australia,,2020-03-06,7.0,11.0,13.0,20.0,13.0,-3.0
+5630,AU,Australia,South Australia,,2020-03-07,8.0,11.0,18.0,13.0,1.0,-1.0
+5631,AU,Australia,South Australia,,2020-03-08,12.0,11.0,44.0,6.0,-2.0,-2.0
+5632,AU,Australia,South Australia,,2020-03-09,-25.0,-19.0,54.0,-24.0,-67.0,12.0
+5633,AU,Australia,South Australia,,2020-03-10,5.0,18.0,-2.0,16.0,13.0,-2.0
+5634,AU,Australia,South Australia,,2020-03-11,-1.0,7.0,6.0,14.0,14.0,-1.0
+5635,AU,Australia,South Australia,,2020-03-12,3.0,9.0,8.0,21.0,12.0,-1.0
+5636,AU,Australia,South Australia,,2020-03-13,4.0,12.0,-2.0,20.0,17.0,-2.0
+5637,AU,Australia,South Australia,,2020-03-14,6.0,18.0,-3.0,12.0,4.0,1.0
+5638,AU,Australia,South Australia,,2020-03-15,2.0,21.0,9.0,0.0,0.0,1.0
+5639,AU,Australia,South Australia,,2020-03-16,0.0,35.0,-12.0,10.0,16.0,0.0
+5640,AU,Australia,South Australia,,2020-03-17,-4.0,40.0,-19.0,1.0,9.0,2.0
+5641,AU,Australia,South Australia,,2020-03-18,-7.0,38.0,-11.0,-5.0,6.0,3.0
+5642,AU,Australia,South Australia,,2020-03-19,-7.0,31.0,-14.0,-8.0,3.0,4.0
+5643,AU,Australia,South Australia,,2020-03-20,-10.0,22.0,-21.0,-9.0,6.0,4.0
+5644,AU,Australia,South Australia,,2020-03-21,-15.0,14.0,-18.0,-19.0,-3.0,6.0
+5645,AU,Australia,South Australia,,2020-03-22,-19.0,10.0,-15.0,-27.0,-8.0,6.0
+5646,AU,Australia,South Australia,,2020-03-23,-17.0,26.0,-28.0,-22.0,2.0,6.0
+5647,AU,Australia,South Australia,,2020-03-24,-26.0,16.0,-33.0,-33.0,-9.0,9.0
+5648,AU,Australia,South Australia,,2020-03-25,-27.0,13.0,-26.0,-39.0,-12.0,11.0
+5649,AU,Australia,South Australia,,2020-03-26,-29.0,10.0,-18.0,-42.0,-17.0,12.0
+5650,AU,Australia,South Australia,,2020-03-27,-33.0,7.0,-26.0,-43.0,-15.0,13.0
+5651,AU,Australia,South Australia,,2020-03-28,-39.0,-3.0,-33.0,-47.0,-24.0,14.0
+5652,AU,Australia,South Australia,,2020-03-29,-43.0,-15.0,-33.0,-55.0,-28.0,12.0
+5653,AU,Australia,South Australia,,2020-03-30,-38.0,-6.0,-36.0,-49.0,-20.0,13.0
+5654,AU,Australia,South Australia,,2020-03-31,-36.0,-5.0,-32.0,-50.0,-25.0,14.0
+5655,AU,Australia,South Australia,,2020-04-01,-36.0,-5.0,-37.0,-51.0,-26.0,15.0
+5656,AU,Australia,South Australia,,2020-04-02,-34.0,-2.0,-20.0,-50.0,-28.0,15.0
+5657,AU,Australia,South Australia,,2020-04-03,-37.0,-2.0,-44.0,-53.0,-25.0,16.0
+5658,AU,Australia,South Australia,,2020-04-04,-39.0,-5.0,-60.0,-56.0,-28.0,16.0
+5659,AU,Australia,South Australia,,2020-04-05,-40.0,-13.0,-48.0,-59.0,-30.0,12.0
+5660,AU,Australia,South Australia,,2020-04-06,-33.0,-4.0,-31.0,-51.0,-25.0,13.0
+5661,AU,Australia,South Australia,,2020-04-07,-33.0,1.0,-35.0,-51.0,-29.0,15.0
+5662,AU,Australia,South Australia,,2020-04-08,-29.0,7.0,-24.0,-51.0,-28.0,14.0
+5663,AU,Australia,South Australia,,2020-04-09,-19.0,28.0,-20.0,-48.0,-31.0,14.0
+5664,AU,Australia,South Australia,,2020-04-10,-79.0,-59.0,-28.0,-68.0,-78.0,29.0
+5665,AU,Australia,South Australia,,2020-04-11,-33.0,9.0,-48.0,-52.0,-35.0,15.0
+5666,AU,Australia,South Australia,,2020-04-12,-64.0,-38.0,-35.0,-56.0,-37.0,12.0
+5667,AU,Australia,South Australia,,2020-04-13,-50.0,-31.0,-2.0,-65.0,-74.0,24.0
+5668,AU,Australia,South Australia,,2020-04-14,-30.0,4.0,-24.0,-51.0,-34.0,15.0
+5669,AU,Australia,South Australia,,2020-04-15,-33.0,-2.0,-21.0,-52.0,-33.0,16.0
+5670,AU,Australia,South Australia,,2020-04-16,-32.0,0.0,-24.0,-51.0,-34.0,16.0
+5671,AU,Australia,South Australia,,2020-04-17,-33.0,0.0,-32.0,-51.0,-31.0,16.0
+5672,AU,Australia,South Australia,,2020-04-18,-36.0,-5.0,-42.0,-49.0,-26.0,14.0
+5673,AU,Australia,South Australia,,2020-04-19,-40.0,-17.0,-32.0,-55.0,-27.0,11.0
+5674,AU,Australia,South Australia,,2020-04-20,-34.0,-10.0,-30.0,-50.0,-29.0,14.0
+5675,AU,Australia,South Australia,,2020-04-21,-33.0,-7.0,-22.0,-48.0,-31.0,15.0
+5676,AU,Australia,South Australia,,2020-04-22,-32.0,-7.0,-10.0,-48.0,-31.0,14.0
+5677,AU,Australia,South Australia,,2020-04-23,-35.0,-6.0,-46.0,-55.0,-32.0,17.0
+5678,AU,Australia,South Australia,,2020-04-24,-29.0,3.0,-19.0,-46.0,-28.0,15.0
+5679,AU,Australia,South Australia,,2020-04-25,-46.0,-22.0,-37.0,-50.0,-38.0,15.0
+5680,AU,Australia,South Australia,,2020-04-26,-30.0,-1.0,-25.0,-48.0,-26.0,10.0
+5681,AU,Australia,South Australia,,2020-04-27,-30.0,-5.0,-23.0,-45.0,-19.0,12.0
+5682,AU,Australia,South Australia,,2020-04-28,-31.0,-4.0,-44.0,-46.0,-22.0,11.0
+5683,AU,Australia,South Australia,,2020-04-29,-33.0,-6.0,-50.0,-51.0,-23.0,8.0
+5684,AU,Australia,South Australia,,2020-04-30,-31.0,-1.0,-51.0,-50.0,-23.0,15.0
+5685,AU,Australia,South Australia,,2020-05-01,-31.0,1.0,-54.0,-49.0,-20.0,14.0
+5686,AU,Australia,South Australia,,2020-05-02,-27.0,4.0,-50.0,-44.0,-24.0,13.0
+5687,AU,Australia,South Australia,,2020-05-03,-31.0,-7.0,-22.0,-48.0,-24.0,9.0
+5688,AU,Australia,South Australia,,2020-05-04,-27.0,-2.0,-24.0,-41.0,-14.0,10.0
+5689,AU,Australia,South Australia,,2020-05-05,-27.0,-2.0,-20.0,-41.0,-17.0,11.0
+5690,AU,Australia,South Australia,,2020-05-06,-27.0,1.0,-17.0,-41.0,-17.0,11.0
+5691,AU,Australia,South Australia,,2020-05-07,-24.0,7.0,-23.0,-42.0,-18.0,12.0
+5692,AU,Australia,South Australia,,2020-05-08,-23.0,8.0,-33.0,-40.0,-15.0,12.0
+5693,AU,Australia,South Australia,,2020-05-09,-18.0,21.0,-46.0,-41.0,-21.0,11.0
+5694,AU,Australia,South Australia,,2020-05-10,-27.0,-3.0,-22.0,-41.0,-19.0,6.0
+5695,AU,Australia,South Australia,,2020-05-11,-25.0,3.0,-21.0,-38.0,-12.0,10.0
+5696,AU,Australia,South Australia,,2020-05-12,-25.0,-1.0,-28.0,-39.0,-14.0,11.0
+5697,AU,Australia,South Australia,,2020-05-13,-25.0,1.0,-25.0,-40.0,-14.0,11.0
+5698,AU,Australia,South Australia,,2020-05-14,-22.0,1.0,-17.0,-37.0,-16.0,10.0
+5699,AU,Australia,South Australia,,2020-05-15,-22.0,5.0,-14.0,-35.0,-13.0,9.0
+5700,AU,Australia,South Australia,,2020-05-16,-19.0,7.0,-7.0,-32.0,-19.0,8.0
+5701,AU,Australia,South Australia,,2020-05-17,-20.0,2.0,12.0,-38.0,-21.0,6.0
+5702,AU,Australia,South Australia,,2020-05-18,-22.0,7.0,-11.0,-34.0,-9.0,8.0
+5703,AU,Australia,South Australia,,2020-05-19,-24.0,0.0,-26.0,-39.0,-12.0,10.0
+5704,AU,Australia,South Australia,,2020-05-20,-26.0,0.0,-41.0,-41.0,-13.0,11.0
+5705,AU,Australia,South Australia,,2020-05-21,-20.0,4.0,-24.0,-37.0,-14.0,10.0
+5706,AU,Australia,Tasmania,,2020-02-15,2.0,-1.0,-14.0,-4.0,0.0,1.0
+5707,AU,Australia,Tasmania,,2020-02-16,1.0,2.0,-7.0,1.0,1.0,1.0
+5708,AU,Australia,Tasmania,,2020-02-17,-3.0,0.0,-17.0,12.0,19.0,-2.0
+5709,AU,Australia,Tasmania,,2020-02-18,-3.0,-2.0,-9.0,4.0,15.0,-1.0
+5710,AU,Australia,Tasmania,,2020-02-19,-3.0,-2.0,-17.0,0.0,15.0,0.0
+5711,AU,Australia,Tasmania,,2020-02-20,1.0,0.0,10.0,8.0,18.0,-1.0
+5712,AU,Australia,Tasmania,,2020-02-21,1.0,0.0,-3.0,6.0,16.0,-1.0
+5713,AU,Australia,Tasmania,,2020-02-22,2.0,-1.0,4.0,3.0,0.0,0.0
+5714,AU,Australia,Tasmania,,2020-02-23,0.0,1.0,-9.0,2.0,-1.0,0.0
+5715,AU,Australia,Tasmania,,2020-02-24,-5.0,-2.0,-20.0,14.0,19.0,-1.0
+5716,AU,Australia,Tasmania,,2020-02-25,-3.0,-1.0,-1.0,4.0,16.0,-1.0
+5717,AU,Australia,Tasmania,,2020-02-26,-3.0,-4.0,-19.0,0.0,10.0,1.0
+5718,AU,Australia,Tasmania,,2020-02-27,-2.0,-2.0,-6.0,9.0,18.0,0.0
+5719,AU,Australia,Tasmania,,2020-02-28,0.0,0.0,-5.0,5.0,17.0,-1.0
+5720,AU,Australia,Tasmania,,2020-02-29,3.0,-3.0,-5.0,1.0,2.0,0.0
+5721,AU,Australia,Tasmania,,2020-03-01,-4.0,-2.0,-13.0,4.0,0.0,2.0
+5722,AU,Australia,Tasmania,,2020-03-02,-4.0,0.0,-27.0,7.0,20.0,-1.0
+5723,AU,Australia,Tasmania,,2020-03-03,-3.0,1.0,-6.0,5.0,16.0,-1.0
+5724,AU,Australia,Tasmania,,2020-03-04,0.0,6.0,-5.0,8.0,18.0,-2.0
+5725,AU,Australia,Tasmania,,2020-03-05,-8.0,-3.0,-35.0,-1.0,15.0,2.0
+5726,AU,Australia,Tasmania,,2020-03-06,0.0,4.0,-3.0,9.0,17.0,-2.0
+5727,AU,Australia,Tasmania,,2020-03-07,-2.0,-2.0,-11.0,-3.0,-3.0,0.0
+5728,AU,Australia,Tasmania,,2020-03-08,-4.0,-5.0,-4.0,-12.0,-2.0,1.0
+5729,AU,Australia,Tasmania,,2020-03-09,-18.0,-10.0,-3.0,-18.0,-60.0,9.0
+5730,AU,Australia,Tasmania,,2020-03-10,-5.0,2.0,-7.0,2.0,12.0,-1.0
+5731,AU,Australia,Tasmania,,2020-03-11,-4.0,0.0,-3.0,5.0,17.0,-1.0
+5732,AU,Australia,Tasmania,,2020-03-12,-4.0,2.0,5.0,9.0,18.0,-1.0
+5733,AU,Australia,Tasmania,,2020-03-13,-6.0,0.0,-30.0,0.0,17.0,1.0
+5734,AU,Australia,Tasmania,,2020-03-14,-3.0,2.0,-21.0,1.0,3.0,2.0
+5735,AU,Australia,Tasmania,,2020-03-15,-7.0,5.0,-22.0,-3.0,1.0,3.0
+5736,AU,Australia,Tasmania,,2020-03-16,-9.0,13.0,-26.0,1.0,18.0,0.0
+5737,AU,Australia,Tasmania,,2020-03-17,-9.0,14.0,-14.0,-6.0,12.0,1.0
+5738,AU,Australia,Tasmania,,2020-03-18,-13.0,12.0,-24.0,-9.0,9.0,3.0
+5739,AU,Australia,Tasmania,,2020-03-19,-15.0,10.0,-20.0,-14.0,10.0,4.0
+5740,AU,Australia,Tasmania,,2020-03-20,-17.0,3.0,-30.0,-17.0,8.0,5.0
+5741,AU,Australia,Tasmania,,2020-03-21,-18.0,-11.0,-33.0,-27.0,-5.0,7.0
+5742,AU,Australia,Tasmania,,2020-03-22,-27.0,-11.0,-41.0,-35.0,-9.0,7.0
+5743,AU,Australia,Tasmania,,2020-03-23,-24.0,0.0,-44.0,-28.0,5.0,5.0
+5744,AU,Australia,Tasmania,,2020-03-24,-31.0,-6.0,-36.0,-33.0,-3.0,7.0
+5745,AU,Australia,Tasmania,,2020-03-25,-30.0,-5.0,-43.0,-36.0,-6.0,9.0
+5746,AU,Australia,Tasmania,,2020-03-26,-34.0,-10.0,-35.0,-43.0,-9.0,11.0
+5747,AU,Australia,Tasmania,,2020-03-27,-37.0,-11.0,-46.0,-44.0,-12.0,12.0
+5748,AU,Australia,Tasmania,,2020-03-28,-42.0,-25.0,-51.0,-51.0,-24.0,12.0
+5749,AU,Australia,Tasmania,,2020-03-29,-50.0,-30.0,-70.0,-62.0,-28.0,13.0
+5750,AU,Australia,Tasmania,,2020-03-30,-39.0,-14.0,-66.0,-52.0,-17.0,11.0
+5751,AU,Australia,Tasmania,,2020-03-31,-50.0,-25.0,-63.0,-57.0,-24.0,14.0
+5752,AU,Australia,Tasmania,,2020-04-01,-46.0,-23.0,-58.0,-56.0,-25.0,15.0
+5753,AU,Australia,Tasmania,,2020-04-02,-52.0,-29.0,-72.0,-66.0,-27.0,18.0
+5754,AU,Australia,Tasmania,,2020-04-03,-45.0,-20.0,-61.0,-60.0,-25.0,17.0
+5755,AU,Australia,Tasmania,,2020-04-04,-52.0,-33.0,-79.0,-70.0,-34.0,18.0
+5756,AU,Australia,Tasmania,,2020-04-05,-52.0,-31.0,-76.0,-70.0,-33.0,15.0
+5757,AU,Australia,Tasmania,,2020-04-06,-46.0,-24.0,-68.0,-59.0,-24.0,14.0
+5758,AU,Australia,Tasmania,,2020-04-07,-45.0,-21.0,-62.0,-56.0,-28.0,15.0
+5759,AU,Australia,Tasmania,,2020-04-08,-41.0,-15.0,-60.0,-56.0,-27.0,14.0
+5760,AU,Australia,Tasmania,,2020-04-09,-34.0,1.0,-52.0,-55.0,-27.0,14.0
+5761,AU,Australia,Tasmania,,2020-04-10,-86.0,-71.0,-73.0,-78.0,-78.0,31.0
+5762,AU,Australia,Tasmania,,2020-04-11,-49.0,-22.0,-78.0,-71.0,-38.0,18.0
+5763,AU,Australia,Tasmania,,2020-04-12,-61.0,-46.0,-77.0,-70.0,-36.0,16.0
+5764,AU,Australia,Tasmania,,2020-04-13,-63.0,-41.0,-71.0,-72.0,-73.0,25.0
+5765,AU,Australia,Tasmania,,2020-04-14,-51.0,-25.0,-61.0,-59.0,-42.0,18.0
+5766,AU,Australia,Tasmania,,2020-04-15,-51.0,-27.0,-71.0,-63.0,-36.0,18.0
+5767,AU,Australia,Tasmania,,2020-04-16,-50.0,-24.0,-60.0,-60.0,-35.0,18.0
+5768,AU,Australia,Tasmania,,2020-04-17,-51.0,-24.0,-69.0,-65.0,-34.0,20.0
+5769,AU,Australia,Tasmania,,2020-04-18,-53.0,-30.0,-71.0,-66.0,-33.0,17.0
+5770,AU,Australia,Tasmania,,2020-04-19,-56.0,-30.0,-69.0,-67.0,-32.0,15.0
+5771,AU,Australia,Tasmania,,2020-04-20,-52.0,-24.0,-75.0,-64.0,-31.0,16.0
+5772,AU,Australia,Tasmania,,2020-04-21,-50.0,-21.0,-65.0,-60.0,-32.0,16.0
+5773,AU,Australia,Tasmania,,2020-04-22,-47.0,-19.0,-62.0,-58.0,-32.0,16.0
+5774,AU,Australia,Tasmania,,2020-04-23,-47.0,-19.0,-57.0,-59.0,-30.0,16.0
+5775,AU,Australia,Tasmania,,2020-04-24,-46.0,-15.0,-63.0,-61.0,-31.0,18.0
+5776,AU,Australia,Tasmania,,2020-04-25,-56.0,-35.0,-70.0,-65.0,-40.0,17.0
+5777,AU,Australia,Tasmania,,2020-04-26,-48.0,-20.0,-73.0,-69.0,-31.0,14.0
+5778,AU,Australia,Tasmania,,2020-04-27,-48.0,-19.0,-69.0,-58.0,-27.0,14.0
+5779,AU,Australia,Tasmania,,2020-04-28,-47.0,-19.0,-60.0,-55.0,-27.0,13.0
+5780,AU,Australia,Tasmania,,2020-04-29,-47.0,-20.0,-66.0,-58.0,-28.0,9.0
+5781,AU,Australia,Tasmania,,2020-04-30,-46.0,-17.0,-60.0,-59.0,-26.0,16.0
+5782,AU,Australia,Tasmania,,2020-05-01,-44.0,-14.0,-63.0,-58.0,-25.0,17.0
+5783,AU,Australia,Tasmania,,2020-05-02,-47.0,-25.0,-77.0,-67.0,-32.0,16.0
+5784,AU,Australia,Tasmania,,2020-05-03,-48.0,-22.0,-70.0,-64.0,-28.0,14.0
+5785,AU,Australia,Tasmania,,2020-05-04,-40.0,-18.0,-64.0,-55.0,-21.0,12.0
+5786,AU,Australia,Tasmania,,2020-05-05,-42.0,-18.0,-57.0,-54.0,-23.0,13.0
+5787,AU,Australia,Tasmania,,2020-05-06,-40.0,-15.0,-59.0,-55.0,-23.0,14.0
+5788,AU,Australia,Tasmania,,2020-05-07,-40.0,-14.0,-54.0,-54.0,-22.0,15.0
+5789,AU,Australia,Tasmania,,2020-05-08,-38.0,-9.0,-59.0,-54.0,-22.0,16.0
+5790,AU,Australia,Tasmania,,2020-05-09,-34.0,-7.0,-74.0,-63.0,-28.0,14.0
+5791,AU,Australia,Tasmania,,2020-05-10,-39.0,-16.0,-66.0,-57.0,-23.0,11.0
+5792,AU,Australia,Tasmania,,2020-05-11,-42.0,-18.0,-66.0,-55.0,-19.0,12.0
+5793,AU,Australia,Tasmania,,2020-05-12,-43.0,-17.0,-67.0,-56.0,-23.0,14.0
+5794,AU,Australia,Tasmania,,2020-05-13,-39.0,-14.0,-59.0,-53.0,-21.0,14.0
+5795,AU,Australia,Tasmania,,2020-05-14,-38.0,-14.0,-50.0,-54.0,-19.0,13.0
+5796,AU,Australia,Tasmania,,2020-05-15,-37.0,-12.0,-53.0,-54.0,-20.0,14.0
+5797,AU,Australia,Tasmania,,2020-05-16,-34.0,-18.0,-55.0,-56.0,-24.0,12.0
+5798,AU,Australia,Tasmania,,2020-05-17,-39.0,-18.0,-59.0,-61.0,-24.0,11.0
+5799,AU,Australia,Tasmania,,2020-05-18,-35.0,-15.0,-60.0,-52.0,-16.0,11.0
+5800,AU,Australia,Tasmania,,2020-05-19,-36.0,-15.0,-55.0,-53.0,-18.0,12.0
+5801,AU,Australia,Tasmania,,2020-05-20,-35.0,-16.0,-61.0,-54.0,-19.0,13.0
+5802,AU,Australia,Tasmania,,2020-05-21,-33.0,-13.0,-46.0,-53.0,-18.0,13.0
+5803,AU,Australia,Victoria,,2020-02-15,3.0,3.0,-22.0,1.0,3.0,1.0
+5804,AU,Australia,Victoria,,2020-02-16,3.0,4.0,2.0,0.0,-2.0,0.0
+5805,AU,Australia,Victoria,,2020-02-17,-1.0,1.0,26.0,11.0,18.0,-3.0
+5806,AU,Australia,Victoria,,2020-02-18,-6.0,-6.0,-27.0,5.0,13.0,0.0
+5807,AU,Australia,Victoria,,2020-02-19,-2.0,-2.0,-17.0,6.0,13.0,-1.0
+5808,AU,Australia,Victoria,,2020-02-20,-1.0,0.0,-2.0,9.0,14.0,-2.0
+5809,AU,Australia,Victoria,,2020-02-21,8.0,2.0,-4.0,13.0,15.0,-3.0
+5810,AU,Australia,Victoria,,2020-02-22,7.0,4.0,23.0,18.0,4.0,-1.0
+5811,AU,Australia,Victoria,,2020-02-23,4.0,4.0,19.0,8.0,-3.0,-1.0
+5812,AU,Australia,Victoria,,2020-02-24,-1.0,2.0,9.0,10.0,17.0,-2.0
+5813,AU,Australia,Victoria,,2020-02-25,-2.0,-2.0,-9.0,10.0,14.0,-1.0
+5814,AU,Australia,Victoria,,2020-02-26,0.0,2.0,-2.0,10.0,14.0,-2.0
+5815,AU,Australia,Victoria,,2020-02-27,0.0,1.0,0.0,12.0,15.0,-2.0
+5816,AU,Australia,Victoria,,2020-02-28,9.0,4.0,-2.0,16.0,16.0,-3.0
+5817,AU,Australia,Victoria,,2020-02-29,7.0,6.0,22.0,16.0,5.0,-1.0
+5818,AU,Australia,Victoria,,2020-03-01,4.0,7.0,8.0,6.0,-2.0,0.0
+5819,AU,Australia,Victoria,,2020-03-02,0.0,6.0,8.0,14.0,19.0,-2.0
+5820,AU,Australia,Victoria,,2020-03-03,0.0,7.0,-5.0,11.0,15.0,-2.0
+5821,AU,Australia,Victoria,,2020-03-04,2.0,15.0,-11.0,11.0,14.0,-2.0
+5822,AU,Australia,Victoria,,2020-03-05,-2.0,11.0,-28.0,10.0,13.0,0.0
+5823,AU,Australia,Victoria,,2020-03-06,8.0,16.0,-6.0,12.0,13.0,-3.0
+5824,AU,Australia,Victoria,,2020-03-07,3.0,14.0,18.0,10.0,0.0,-1.0
+5825,AU,Australia,Victoria,,2020-03-08,4.0,8.0,28.0,12.0,-5.0,-2.0
+5826,AU,Australia,Victoria,,2020-03-09,3.0,6.0,88.0,-32.0,-65.0,11.0
+5827,AU,Australia,Victoria,,2020-03-10,-1.0,11.0,0.0,9.0,12.0,-1.0
+5828,AU,Australia,Victoria,,2020-03-11,-1.0,13.0,6.0,8.0,14.0,-1.0
+5829,AU,Australia,Victoria,,2020-03-12,-1.0,15.0,8.0,10.0,13.0,-1.0
+5830,AU,Australia,Victoria,,2020-03-13,2.0,22.0,-20.0,5.0,13.0,0.0
+5831,AU,Australia,Victoria,,2020-03-14,1.0,30.0,-11.0,-2.0,4.0,3.0
+5832,AU,Australia,Victoria,,2020-03-15,-2.0,32.0,-14.0,-12.0,-3.0,3.0
+5833,AU,Australia,Victoria,,2020-03-16,0.0,45.0,9.0,-3.0,11.0,0.0
+5834,AU,Australia,Victoria,,2020-03-17,-5.0,37.0,-10.0,-16.0,3.0,4.0
+5835,AU,Australia,Victoria,,2020-03-18,-10.0,30.0,-17.0,-24.0,-1.0,6.0
+5836,AU,Australia,Victoria,,2020-03-19,-15.0,21.0,-19.0,-28.0,-4.0,7.0
+5837,AU,Australia,Victoria,,2020-03-20,-12.0,16.0,-24.0,-29.0,-4.0,7.0
+5838,AU,Australia,Victoria,,2020-03-21,-19.0,7.0,-18.0,-31.0,-5.0,8.0
+5839,AU,Australia,Victoria,,2020-03-22,-21.0,8.0,-36.0,-42.0,-14.0,8.0
+5840,AU,Australia,Victoria,,2020-03-23,-19.0,14.0,-21.0,-43.0,-11.0,9.0
+5841,AU,Australia,Victoria,,2020-03-24,-36.0,-6.0,-30.0,-56.0,-28.0,16.0
+5842,AU,Australia,Victoria,,2020-03-25,-37.0,-4.0,-37.0,-60.0,-31.0,17.0
+5843,AU,Australia,Victoria,,2020-03-26,-39.0,-5.0,-23.0,-63.0,-35.0,19.0
+5844,AU,Australia,Victoria,,2020-03-27,-39.0,-6.0,-27.0,-62.0,-36.0,20.0
+5845,AU,Australia,Victoria,,2020-03-28,-46.0,-14.0,-32.0,-59.0,-29.0,17.0
+5846,AU,Australia,Victoria,,2020-03-29,-51.0,-26.0,-55.0,-68.0,-37.0,16.0
+5847,AU,Australia,Victoria,,2020-03-30,-43.0,-16.0,-22.0,-66.0,-40.0,18.0
+5848,AU,Australia,Victoria,,2020-03-31,-46.0,-20.0,-35.0,-69.0,-44.0,21.0
+5849,AU,Australia,Victoria,,2020-04-01,-45.0,-18.0,-34.0,-69.0,-44.0,21.0
+5850,AU,Australia,Victoria,,2020-04-02,-49.0,-21.0,-59.0,-72.0,-46.0,24.0
+5851,AU,Australia,Victoria,,2020-04-03,-43.0,-12.0,-43.0,-69.0,-44.0,23.0
+5852,AU,Australia,Victoria,,2020-04-04,-52.0,-22.0,-74.0,-70.0,-38.0,21.0
+5853,AU,Australia,Victoria,,2020-04-05,-52.0,-26.0,-75.0,-74.0,-42.0,18.0
+5854,AU,Australia,Victoria,,2020-04-06,-42.0,-16.0,-34.0,-69.0,-43.0,20.0
+5855,AU,Australia,Victoria,,2020-04-07,-44.0,-17.0,-46.0,-70.0,-46.0,22.0
+5856,AU,Australia,Victoria,,2020-04-08,-41.0,-11.0,-41.0,-69.0,-45.0,21.0
+5857,AU,Australia,Victoria,,2020-04-09,-34.0,9.0,-32.0,-68.0,-46.0,21.0
+5858,AU,Australia,Victoria,,2020-04-10,-79.0,-68.0,-41.0,-81.0,-84.0,36.0
+5859,AU,Australia,Victoria,,2020-04-11,-46.0,-4.0,-73.0,-72.0,-45.0,22.0
+5860,AU,Australia,Victoria,,2020-04-12,-59.0,-40.0,-62.0,-74.0,-47.0,18.0
+5861,AU,Australia,Victoria,,2020-04-13,-48.0,-23.0,-8.0,-79.0,-80.0,29.0
+5862,AU,Australia,Victoria,,2020-04-14,-42.0,-14.0,-42.0,-71.0,-47.0,22.0
+5863,AU,Australia,Victoria,,2020-04-15,-43.0,-15.0,-40.0,-70.0,-45.0,22.0
+5864,AU,Australia,Victoria,,2020-04-16,-45.0,-13.0,-42.0,-70.0,-44.0,23.0
+5865,AU,Australia,Victoria,,2020-04-17,-41.0,-9.0,-47.0,-68.0,-43.0,23.0
+5866,AU,Australia,Victoria,,2020-04-18,-47.0,-13.0,-54.0,-63.0,-33.0,19.0
+5867,AU,Australia,Victoria,,2020-04-19,-49.0,-19.0,-44.0,-66.0,-37.0,16.0
+5868,AU,Australia,Victoria,,2020-04-20,-46.0,-18.0,-36.0,-69.0,-41.0,20.0
+5869,AU,Australia,Victoria,,2020-04-21,-44.0,-18.0,-39.0,-68.0,-42.0,21.0
+5870,AU,Australia,Victoria,,2020-04-22,-44.0,-16.0,-40.0,-68.0,-42.0,21.0
+5871,AU,Australia,Victoria,,2020-04-23,-45.0,-15.0,-43.0,-68.0,-42.0,22.0
+5872,AU,Australia,Victoria,,2020-04-24,-39.0,-8.0,-34.0,-65.0,-41.0,21.0
+5873,AU,Australia,Victoria,,2020-04-25,-49.0,-22.0,-41.0,-62.0,-44.0,20.0
+5874,AU,Australia,Victoria,,2020-04-26,-45.0,-9.0,-63.0,-67.0,-37.0,16.0
+5875,AU,Australia,Victoria,,2020-04-27,-41.0,-14.0,-21.0,-67.0,-41.0,19.0
+5876,AU,Australia,Victoria,,2020-04-28,-42.0,-16.0,-39.0,-68.0,-42.0,19.0
+5877,AU,Australia,Victoria,,2020-04-29,-47.0,-22.0,-68.0,-71.0,-42.0,16.0
+5878,AU,Australia,Victoria,,2020-04-30,-44.0,-12.0,-56.0,-69.0,-42.0,22.0
+5879,AU,Australia,Victoria,,2020-05-01,-42.0,-13.0,-66.0,-69.0,-41.0,23.0
+5880,AU,Australia,Victoria,,2020-05-02,-42.0,-7.0,-67.0,-62.0,-32.0,19.0
+5881,AU,Australia,Victoria,,2020-05-03,-42.0,-12.0,-50.0,-63.0,-34.0,15.0
+5882,AU,Australia,Victoria,,2020-05-04,-41.0,-14.0,-39.0,-66.0,-38.0,18.0
+5883,AU,Australia,Victoria,,2020-05-05,-39.0,-14.0,-26.0,-64.0,-39.0,19.0
+5884,AU,Australia,Victoria,,2020-05-06,-39.0,-12.0,-37.0,-65.0,-39.0,20.0
+5885,AU,Australia,Victoria,,2020-05-07,-40.0,-9.0,-37.0,-65.0,-39.0,20.0
+5886,AU,Australia,Victoria,,2020-05-08,-33.0,-1.0,-33.0,-62.0,-38.0,20.0
+5887,AU,Australia,Victoria,,2020-05-09,-36.0,4.0,-69.0,-61.0,-29.0,18.0
+5888,AU,Australia,Victoria,,2020-05-10,-37.0,-11.0,-46.0,-61.0,-30.0,13.0
+5889,AU,Australia,Victoria,,2020-05-11,-38.0,-12.0,-27.0,-65.0,-38.0,18.0
+5890,AU,Australia,Victoria,,2020-05-12,-38.0,-10.0,-41.0,-65.0,-38.0,19.0
+5891,AU,Australia,Victoria,,2020-05-13,-37.0,-9.0,-40.0,-64.0,-37.0,19.0
+5892,AU,Australia,Victoria,,2020-05-14,-37.0,-8.0,-29.0,-63.0,-37.0,18.0
+5893,AU,Australia,Victoria,,2020-05-15,-32.0,-2.0,-27.0,-60.0,-37.0,18.0
+5894,AU,Australia,Victoria,,2020-05-16,-32.0,-1.0,-11.0,-47.0,-25.0,11.0
+5895,AU,Australia,Victoria,,2020-05-17,-33.0,-8.0,-10.0,-54.0,-28.0,9.0
+5896,AU,Australia,Victoria,,2020-05-18,-34.0,-8.0,-4.0,-61.0,-35.0,16.0
+5897,AU,Australia,Victoria,,2020-05-19,-36.0,-9.0,-36.0,-63.0,-37.0,18.0
+5898,AU,Australia,Victoria,,2020-05-20,-35.0,-6.0,-40.0,-63.0,-36.0,18.0
+5899,AU,Australia,Victoria,,2020-05-21,-37.0,-7.0,-49.0,-64.0,-37.0,19.0
+5900,AU,Australia,Western Australia,,2020-02-15,7.0,3.0,-1.0,12.0,2.0,0.0
+5901,AU,Australia,Western Australia,,2020-02-16,5.0,4.0,2.0,2.0,0.0,1.0
+5902,AU,Australia,Western Australia,,2020-02-17,-1.0,0.0,-7.0,8.0,17.0,-1.0
+5903,AU,Australia,Western Australia,,2020-02-18,-1.0,1.0,-2.0,8.0,16.0,-1.0
+5904,AU,Australia,Western Australia,,2020-02-19,-1.0,0.0,-3.0,7.0,15.0,-1.0
+5905,AU,Australia,Western Australia,,2020-02-20,0.0,0.0,-4.0,8.0,15.0,-1.0
+5906,AU,Australia,Western Australia,,2020-02-21,2.0,3.0,-4.0,8.0,16.0,-2.0
+5907,AU,Australia,Western Australia,,2020-02-22,5.0,5.0,1.0,6.0,3.0,0.0
+5908,AU,Australia,Western Australia,,2020-02-23,8.0,3.0,-2.0,11.0,1.0,0.0
+5909,AU,Australia,Western Australia,,2020-02-24,-2.0,0.0,-14.0,10.0,17.0,-1.0
+5910,AU,Australia,Western Australia,,2020-02-25,-2.0,-1.0,-11.0,12.0,17.0,-1.0
+5911,AU,Australia,Western Australia,,2020-02-26,-3.0,0.0,-20.0,9.0,16.0,-1.0
+5912,AU,Australia,Western Australia,,2020-02-27,-3.0,-3.0,-28.0,9.0,15.0,0.0
+5913,AU,Australia,Western Australia,,2020-02-28,0.0,5.0,-15.0,6.0,14.0,-1.0
+5914,AU,Australia,Western Australia,,2020-02-29,3.0,6.0,5.0,0.0,1.0,0.0
+5915,AU,Australia,Western Australia,,2020-03-01,8.0,7.0,18.0,10.0,-1.0,-1.0
+5916,AU,Australia,Western Australia,,2020-03-02,-5.0,3.0,31.0,-29.0,-62.0,12.0
+5917,AU,Australia,Western Australia,,2020-03-03,0.0,15.0,-5.0,9.0,17.0,-2.0
+5918,AU,Australia,Western Australia,,2020-03-04,-1.0,18.0,-6.0,7.0,17.0,-1.0
+5919,AU,Australia,Western Australia,,2020-03-05,0.0,14.0,-7.0,8.0,16.0,-1.0
+5920,AU,Australia,Western Australia,,2020-03-06,1.0,15.0,-8.0,5.0,18.0,-1.0
+5921,AU,Australia,Western Australia,,2020-03-07,4.0,14.0,3.0,-1.0,5.0,1.0
+5922,AU,Australia,Western Australia,,2020-03-08,4.0,9.0,3.0,-2.0,1.0,1.0
+5923,AU,Australia,Western Australia,,2020-03-09,-2.0,8.0,-9.0,5.0,18.0,-1.0
+5924,AU,Australia,Western Australia,,2020-03-10,-2.0,9.0,-1.0,9.0,17.0,-1.0
+5925,AU,Australia,Western Australia,,2020-03-11,-3.0,10.0,-4.0,5.0,16.0,-1.0
+5926,AU,Australia,Western Australia,,2020-03-12,0.0,13.0,-6.0,4.0,16.0,-1.0
+5927,AU,Australia,Western Australia,,2020-03-13,0.0,18.0,-8.0,1.0,17.0,-1.0
+5928,AU,Australia,Western Australia,,2020-03-14,1.0,23.0,-21.0,-13.0,3.0,3.0
+5929,AU,Australia,Western Australia,,2020-03-15,-1.0,27.0,-18.0,-15.0,1.0,3.0
+5930,AU,Australia,Western Australia,,2020-03-16,-2.0,34.0,-16.0,-5.0,15.0,1.0
+5931,AU,Australia,Western Australia,,2020-03-17,-5.0,38.0,-30.0,-10.0,11.0,2.0
+5932,AU,Australia,Western Australia,,2020-03-18,-5.0,41.0,-22.0,-14.0,9.0,3.0
+5933,AU,Australia,Western Australia,,2020-03-19,-7.0,28.0,-24.0,-14.0,7.0,4.0
+5934,AU,Australia,Western Australia,,2020-03-20,-10.0,25.0,-19.0,-21.0,5.0,5.0
+5935,AU,Australia,Western Australia,,2020-03-21,-15.0,16.0,-21.0,-29.0,-3.0,7.0
+5936,AU,Australia,Western Australia,,2020-03-22,-17.0,10.0,-20.0,-32.0,-9.0,7.0
+5937,AU,Australia,Western Australia,,2020-03-23,-16.0,20.0,-24.0,-27.0,-1.0,7.0
+5938,AU,Australia,Western Australia,,2020-03-24,-23.0,14.0,-19.0,-32.0,-8.0,9.0
+5939,AU,Australia,Western Australia,,2020-03-25,-25.0,13.0,-27.0,-40.0,-13.0,11.0
+5940,AU,Australia,Western Australia,,2020-03-26,-30.0,5.0,-26.0,-45.0,-18.0,13.0
+5941,AU,Australia,Western Australia,,2020-03-27,-33.0,5.0,-35.0,-50.0,-18.0,15.0
+5942,AU,Australia,Western Australia,,2020-03-28,-37.0,-4.0,-43.0,-54.0,-23.0,15.0
+5943,AU,Australia,Western Australia,,2020-03-29,-40.0,-16.0,-37.0,-55.0,-26.0,13.0
+5944,AU,Australia,Western Australia,,2020-03-30,-36.0,-11.0,-38.0,-52.0,-25.0,15.0
+5945,AU,Australia,Western Australia,,2020-03-31,-35.0,-9.0,-33.0,-52.0,-28.0,15.0
+5946,AU,Australia,Western Australia,,2020-04-01,-36.0,-9.0,-37.0,-53.0,-29.0,17.0
+5947,AU,Australia,Western Australia,,2020-04-02,-37.0,-11.0,-41.0,-55.0,-31.0,18.0
+5948,AU,Australia,Western Australia,,2020-04-03,-36.0,-5.0,-39.0,-58.0,-28.0,18.0
+5949,AU,Australia,Western Australia,,2020-04-04,-39.0,-9.0,-46.0,-60.0,-27.0,16.0
+5950,AU,Australia,Western Australia,,2020-04-05,-40.0,-17.0,-43.0,-61.0,-29.0,14.0
+5951,AU,Australia,Western Australia,,2020-04-06,-34.0,-10.0,-32.0,-56.0,-29.0,16.0
+5952,AU,Australia,Western Australia,,2020-04-07,-33.0,-6.0,-27.0,-55.0,-31.0,16.0
+5953,AU,Australia,Western Australia,,2020-04-08,-31.0,-2.0,-27.0,-58.0,-30.0,16.0
+5954,AU,Australia,Western Australia,,2020-04-09,-23.0,16.0,-30.0,-55.0,-31.0,16.0
+5955,AU,Australia,Western Australia,,2020-04-10,-74.0,-35.0,-26.0,-74.0,-77.0,31.0
+5956,AU,Australia,Western Australia,,2020-04-11,-32.0,2.0,-39.0,-62.0,-32.0,16.0
+5957,AU,Australia,Western Australia,,2020-04-12,-47.0,-31.0,-38.0,-60.0,-31.0,14.0
+5958,AU,Australia,Western Australia,,2020-04-13,-43.0,-23.0,-11.0,-69.0,-73.0,26.0
+5959,AU,Australia,Western Australia,,2020-04-14,-30.0,-3.0,-27.0,-57.0,-35.0,16.0
+5960,AU,Australia,Western Australia,,2020-04-15,-32.0,-6.0,-30.0,-56.0,-34.0,17.0
+5961,AU,Australia,Western Australia,,2020-04-16,-32.0,-6.0,-25.0,-56.0,-34.0,18.0
+5962,AU,Australia,Western Australia,,2020-04-17,-33.0,-3.0,-28.0,-57.0,-33.0,18.0
+5963,AU,Australia,Western Australia,,2020-04-18,-37.0,-10.0,-48.0,-56.0,-25.0,15.0
+5964,AU,Australia,Western Australia,,2020-04-19,-40.0,-20.0,-43.0,-56.0,-27.0,13.0
+5965,AU,Australia,Western Australia,,2020-04-20,-33.0,-8.0,-31.0,-56.0,-31.0,16.0
+5966,AU,Australia,Western Australia,,2020-04-21,-32.0,-6.0,-25.0,-52.0,-32.0,16.0
+5967,AU,Australia,Western Australia,,2020-04-22,-32.0,-5.0,-33.0,-55.0,-32.0,17.0
+5968,AU,Australia,Western Australia,,2020-04-23,-32.0,-5.0,-23.0,-53.0,-32.0,17.0
+5969,AU,Australia,Western Australia,,2020-04-24,-30.0,2.0,-29.0,-55.0,-30.0,17.0
+5970,AU,Australia,Western Australia,,2020-04-25,-53.0,-32.0,-34.0,-59.0,-38.0,16.0
+5971,AU,Australia,Western Australia,,2020-04-26,-23.0,,-18.0,-49.0,-24.0,10.0
+5972,AU,Australia,Western Australia,,2020-04-27,-32.0,-9.0,2.0,-61.0,-70.0,23.0
+5973,AU,Australia,Western Australia,,2020-04-28,-24.0,6.0,-27.0,-50.0,-24.0,12.0
+5974,AU,Australia,Western Australia,,2020-04-29,-28.0,-1.0,-25.0,-49.0,-21.0,9.0
+5975,AU,Australia,Western Australia,,2020-04-30,-28.0,1.0,-26.0,-50.0,-22.0,14.0
+5976,AU,Australia,Western Australia,,2020-05-01,-27.0,3.0,-24.0,-50.0,-19.0,13.0
+5977,AU,Australia,Western Australia,,2020-05-02,-25.0,2.0,-14.0,-47.0,-20.0,10.0
+5978,AU,Australia,Western Australia,,2020-05-03,-28.0,-10.0,-9.0,-50.0,-21.0,9.0
+5979,AU,Australia,Western Australia,,2020-05-04,-29.0,-3.0,-50.0,-55.0,-18.0,13.0
+5980,AU,Australia,Western Australia,,2020-05-05,-28.0,-1.0,-44.0,-51.0,-18.0,13.0
+5981,AU,Australia,Western Australia,,2020-05-06,-29.0,-1.0,-50.0,-54.0,-20.0,14.0
+5982,AU,Australia,Western Australia,,2020-05-07,-24.0,6.0,-38.0,-49.0,-18.0,13.0
+5983,AU,Australia,Western Australia,,2020-05-08,-21.0,10.0,-29.0,-48.0,-15.0,12.0
+5984,AU,Australia,Western Australia,,2020-05-09,-14.0,22.0,-20.0,-43.0,-17.0,9.0
+5985,AU,Australia,Western Australia,,2020-05-10,-22.0,0.0,-4.0,-43.0,-16.0,7.0
+5986,AU,Australia,Western Australia,,2020-05-11,-23.0,-1.0,-24.0,-47.0,-14.0,11.0
+5987,AU,Australia,Western Australia,,2020-05-12,-22.0,1.0,-18.0,-44.0,-14.0,11.0
+5988,AU,Australia,Western Australia,,2020-05-13,-23.0,2.0,-19.0,-44.0,-14.0,11.0
+5989,AU,Australia,Western Australia,,2020-05-14,-23.0,1.0,-15.0,-44.0,-15.0,10.0
+5990,AU,Australia,Western Australia,,2020-05-15,-22.0,7.0,-21.0,-44.0,-13.0,11.0
+5991,AU,Australia,Western Australia,,2020-05-16,-20.0,8.0,-19.0,-41.0,-16.0,8.0
+5992,AU,Australia,Western Australia,,2020-05-17,-22.0,1.0,-13.0,-45.0,-17.0,8.0
+5993,AU,Australia,Western Australia,,2020-05-18,-17.0,3.0,-27.0,-44.0,-9.0,9.0
+5994,AU,Australia,Western Australia,,2020-05-19,-17.0,4.0,-19.0,-41.0,-10.0,9.0
+5995,AU,Australia,Western Australia,,2020-05-20,-17.0,3.0,-20.0,-43.0,-10.0,10.0
+5996,AU,Australia,Western Australia,,2020-05-21,-17.0,2.0,-18.0,-41.0,-11.0,10.0

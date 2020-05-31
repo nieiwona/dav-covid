@@ -1,4 +1,5 @@
 import plotly.graph_objects as go
+import os
 
 values = []
 total_cases = 7183
@@ -18,8 +19,14 @@ fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=14,
                   marker=dict(colors=colors))
 
 fig.update_layout(
-    title_text="Current status of confirmed cases of covid-19"
+    title_text="Current status of confirmed cases of covid-19 <br>Status by 2020-05-30"
 )
 
 fig.show()
 
+# directory = './../images/'
+# f = "recovered_dead_active_pieplot.html"
+# file_path = os.path.join(directory, f)
+# fig.write_html(file_path)
+# os.chdir(directory)
+# print(os.path.abspath(f))
