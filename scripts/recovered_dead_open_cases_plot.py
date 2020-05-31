@@ -24,9 +24,9 @@ fig.update_layout(
 
 fig.show()
 
-# directory = './../images/'
-# f = "recovered_dead_active_pieplot.html"
-# file_path = os.path.join(directory, f)
-# fig.write_html(file_path)
-# os.chdir(directory)
-# print(os.path.abspath(f))
+directory = './../images/'
+f = "recovered_dead_active_pieplot.html"
+file_path = os.path.join(directory, f)
+fig.write_html(file_path)
+os.chdir(directory)
+print(os.path.abspath(f))

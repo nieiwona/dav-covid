@@ -156,14 +156,14 @@ fig.add_trace(
 fig.add_trace(
     go.Scatter(x=restrictions_mobility_dates, y=restrictions_mobility_positions,
                mode='markers', marker=dict(color=['#fde725', '#fde725', '#fde725', '#fde725']),
-               name="Mobility restrictions ", text=restrictions_mobility_text, textposition='top center'),
+               name="Gathering restrictions ", text=restrictions_mobility_text, textposition='top center'),
                row=2, col=3, secondary_y=False
                )
 
 # fig.update_layout(showlegend=False)
 
 fig.update_layout(
-    title_text="Community mobility reports by Google <br>Change form baseline during covid-19 pandemic<br>"
+    title_text="Google's community mobility reports for Australia with governmental restrictions <br>Change form baseline during covid-19 pandemic<br>"
 )
 
 # Set template
@@ -173,9 +173,9 @@ fig.update_layout(
 
 fig.show()
 
-# directory = './../images/'
-# f = "mobility_plots.html"
-# file_path = os.path.join(directory, f)
-# fig.write_html(file_path)
-# os.chdir(directory)
-# print(os.path.abspath(f))
+directory = './../images/'
+f = "mobility_plots.html"
+file_path = os.path.join(directory, f)
+fig.write_html(file_path)
+os.chdir(directory)
+print(os.path.abspath(f))
