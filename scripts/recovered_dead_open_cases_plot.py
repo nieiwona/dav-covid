@@ -19,7 +19,7 @@ fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=16,
                   marker=dict(colors=colors))
 
 fig.update_layout(
-    title_text="Current state of confirmed cases of covid-19 <br>Status by 2020-05-30"
+    title_text="Current state of confirmed cases of COVID-19 <br>Status by 2020-05-30"
 )
 
 fig.update_layout(
@@ -28,17 +28,16 @@ fig.update_layout(
 
 fig.update_layout(
     autosize=False,
-    width=600,
-    height=600
+    width=700,
+    height=700
 )
 
 fig.show()
 
-# fig.write_image("./../images/recovered_dead_open_pieplot.png")
 
-# directory = './../images/'
-# f = "recovered_dead_active_pieplot.html"
-# file_path = os.path.join(directory, f)
-# fig.write_html(file_path)
-# os.chdir(directory)
-# print(os.path.abspath(f))
+directory = './../images/'
+f = "recovered_dead_active_pieplot.html"
+file_path = os.path.join(directory, f)
+fig.write_html(file_path)
+os.chdir(directory)
+print(os.path.abspath(f))

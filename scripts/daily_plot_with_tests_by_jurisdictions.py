@@ -36,47 +36,47 @@ fig.add_trace(
 
 fig.add_trace(
     go.Scatter(x=dates, y=daily_tests, mode='lines+markers', marker_color=marker_color,
-               name="Tests daily", yaxis="y2", visible=True))
+               name="Tests", yaxis="y2", visible=True))
 
-# # Cumulative plot
-# fig.add_trace(
-#     go.Scatter(x=dates, y=list(total_dates.total_cases),
-#            name="Cases", line=dict(color='#3c19f0'),
-#            fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
-#
-# fig.add_trace(
-#     go.Scatter(x=dates, y=total_tests, mode='lines+markers', marker_color=marker_color,
-#                name="Tests performed", yaxis="y2", visible=False))
-#
-# # New South Walses (NSW)
-# fig.add_trace(
-#     go.Scatter(x=dates, y=nsw_cases,
-#            name="Cases", line=dict(color='#3c19f0'),
-#            fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
-#
-# fig.add_trace(
-#     go.Scatter(x=dates, y=nsw_tests, mode='lines+markers', marker_color=marker_color,
-#                name="Tests performed", yaxis="y2", visible=False))
-#
-# # Victoria (VIC)
-# fig.add_trace(
-#     go.Scatter(x=dates, y=vic_cases,
-#            name="Cases", line=dict(color='#3c19f0'),
-#            fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
-#
-# fig.add_trace(
-#     go.Scatter(x=dates, y=vic_tests, mode='lines+markers', marker_color=marker_color,
-#                name="Tests performed", yaxis="y2", visible=False))
-#
-# # Queensland (GLD)
-# fig.add_trace(
-#     go.Scatter(x=dates, y=qld_cases,
-#            name="Cases", line=dict(color='#3c19f0'),
-#            fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
-#
-# fig.add_trace(
-#     go.Scatter(x=dates, y=qld_tests, mode='lines+markers', marker_color=marker_color,
-#                name="Tests performed", yaxis="y2", visible=False))
+# Cumulative plot
+fig.add_trace(
+    go.Scatter(x=dates, y=list(total_dates.total_cases),
+           name="Cases", line=dict(color='#3c19f0'),
+           fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
+
+fig.add_trace(
+    go.Scatter(x=dates, y=total_tests, mode='lines+markers', marker_color=marker_color,
+               name="Tests performed", yaxis="y2", visible=False))
+
+# New South Walses (NSW)
+fig.add_trace(
+    go.Scatter(x=dates, y=nsw_cases,
+           name="Cases", line=dict(color='#3c19f0'),
+           fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
+
+fig.add_trace(
+    go.Scatter(x=dates, y=nsw_tests, mode='lines+markers', marker_color=marker_color,
+               name="Tests performed", yaxis="y2", visible=False))
+
+# Victoria (VIC)
+fig.add_trace(
+    go.Scatter(x=dates, y=vic_cases,
+           name="Cases", line=dict(color='#3c19f0'),
+           fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
+
+fig.add_trace(
+    go.Scatter(x=dates, y=vic_tests, mode='lines+markers', marker_color=marker_color,
+               name="Tests performed", yaxis="y2", visible=False))
+
+# Queensland (GLD)
+fig.add_trace(
+    go.Scatter(x=dates, y=qld_cases,
+           name="Cases", line=dict(color='#3c19f0'),
+           fill='tozeroy', fillcolor='#3c19f0', mode='lines', visible=False))
+
+fig.add_trace(
+    go.Scatter(x=dates, y=qld_tests, mode='lines+markers', marker_color=marker_color,
+               name="Tests performed", yaxis="y2", visible=False))
 
 # Create axis objects
 fig.update_layout(
@@ -104,69 +104,69 @@ fig.update_layout(
         side="left",
     )
 )
-#
-# # Add Annotations and Buttons
-# daily = [dict(x=dates, y=list(total_dates.new_cases)),
-#          dict(x=dates, y=daily_tests)
-#          ]
-# cumulative = [dict(x=dates, y=list(total_dates.total_cases)),
-#               dict(x=dates, y=total_tests)
-#               ]
-# nsw = [dict(x=dates, y=nsw_cases),
-#        dict(x=dates, y=nsw_tests)
-#        ]
-# vic = [dict(x=dates, y=vic_cases),
-#        dict(x=dates, y=vic_tests)
-#        ]
-# qld = [dict(x=dates, y=qld_cases),
-#        dict(x=dates, y=qld_tests)
-#        ]
-#
-#
-# fig.update_layout(
-#     updatemenus=[
-#         dict(
-#             type="buttons",
-#             direction="right",
-#             active=0,
-#             x=0.57,
-#             y=1.2,
-#             buttons=list([
-#                 dict(label="Daily",
-#                      method="update",
-#                      args=[{"visible": [True, True, False, False, False, False, False, False, False, False]},
-#                            {"title": "Cases daily",
-#                             "annotations": daily}]),
-#                 dict(label="Cumulative",
-#                      method="update",
-#                      args=[{"visible": [False, False, True, True, False, False, False, False, False, False]},
-#                            {"title": "Cases cumulatively",
-#                             "annotations": cumulative}]),
-#                 dict(label="NSW",
-#                      method="update",
-#                      args=[{"visible": [False, False, False, False, True, True, False, False, False, False]},
-#                            {"title": "New South Wales",
-#                             "annotations": nsw}]),
-#                 dict(label="VIC",
-#                      method="update",
-#                      args=[{"visible": [False, False, False, False, False, False, True, True, False, False]},
-#                            {"title": "Victoria",
-#                             "annotations": vic}]),
-#                 dict(label="QLD",
-#                      method="update",
-#                      args=[{"visible": [False, False, False, False, False, False, False, False, True, True]},
-#                            {"title": "Queensland",
-#                             "annotations": qld}])
-#             ]),
-#         )
-#     ])
+
+# Add Annotations and Buttons
+daily = [dict(x=dates, y=list(total_dates.new_cases)),
+         dict(x=dates, y=daily_tests)
+         ]
+cumulative = [dict(x=dates, y=list(total_dates.total_cases)),
+              dict(x=dates, y=total_tests)
+              ]
+nsw = [dict(x=dates, y=nsw_cases),
+       dict(x=dates, y=nsw_tests)
+       ]
+vic = [dict(x=dates, y=vic_cases),
+       dict(x=dates, y=vic_tests)
+       ]
+qld = [dict(x=dates, y=qld_cases),
+       dict(x=dates, y=qld_tests)
+       ]
+
+
+fig.update_layout(
+    updatemenus=[
+        dict(
+            type="buttons",
+            direction="right",
+            active=0,
+            x=0.8,
+            y=1.13,
+            buttons=list([
+                dict(label="Daily",
+                     method="update",
+                     args=[{"visible": [True, True, False, False, False, False, False, False, False, False]},
+                           {"title": "Cases daily",
+                            "annotations": daily}]),
+                dict(label="Cumulative",
+                     method="update",
+                     args=[{"visible": [False, False, True, True, False, False, False, False, False, False]},
+                           {"title": "Cases cumulatively",
+                            "annotations": cumulative}]),
+                dict(label="NSW",
+                     method="update",
+                     args=[{"visible": [False, False, False, False, True, True, False, False, False, False]},
+                           {"title": "New South Wales",
+                            "annotations": nsw}]),
+                dict(label="VIC",
+                     method="update",
+                     args=[{"visible": [False, False, False, False, False, False, True, True, False, False]},
+                           {"title": "Victoria",
+                            "annotations": vic}]),
+                dict(label="QLD",
+                     method="update",
+                     args=[{"visible": [False, False, False, False, False, False, False, False, True, True]},
+                           {"title": "Queensland",
+                            "annotations": qld}])
+            ]),
+        )
+    ])
 
 
 
 
 # Set title
 fig.update_layout(
-    title_text="New cases of covid-19 and tests performed in Australia daily"
+    title_text="New cases of COVID-19 and tests performed in Australia daily"
 )
 
 # Set template
@@ -180,19 +180,18 @@ fig.update_layout(
 
 fig.update_layout(
     autosize=False,
-    width=1200,
-    height=700
+    width=1800,
+    height=900
 )
 
+fig.update_xaxes(title_text="Date")
 
-# fig.show()
-
-fig.write_image("./../images/daily_plots_with_tests_jurisdictions.png")
+fig.show()
 
 
-# directory = './../images/'
-# f = "daily_plot_with_tests.html"
-# file_path = os.path.join(directory, f)
-# fig.write_html(file_path)
-# os.chdir(directory)
-# print(os.path.abspath(f))
+directory = './../images/'
+f = "daily_plot_with_tests.html"
+file_path = os.path.join(directory, f)
+fig.write_html(file_path)
+os.chdir(directory)
+print(os.path.abspath(f))
